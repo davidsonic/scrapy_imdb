@@ -1,0 +1,249 @@
+#coding:utf-8
+import sys
+reload(sys)
+sys.setdefaultencoding( "utf-8" )
+
+#from optparse import OptionParser
+#parser=OptionParser()
+#parser.add_option('-i','--in',dest='filename',default='',help='addr input')
+#(options,args)=parser.parse_args(
+#)
+#global addr
+#addr = options.filename
+#print ('addr now is %s'% addr )
+
+from selenium import webdriver
+import time
+import scrapy
+import re
+import os
+import math
+from tutorial.items import TutorialItem
+from scrapy.http import Request
+from scrapy.http import Response
+import urllib
+from selenium.common.exceptions import TimeoutException
+from scrapy.contrib.pipeline.images import ImagesPipeline
+global c
+import hashlib
+import subprocess
+
+
+#caps = DesiredCapabilities.FIREFOX
+#caps["marionette"] = True
+#caps["binary"] = "/usr/bin/firefox"
+#driver = webdriver.Firefox(capabilities=caps)
+driver = webdriver.Firefox()
+driver.implicitly_wait(10)
+driver.set_page_load_timeout(300)
+
+#out = open('/data4/test.list', 'w')
+global addr,id_l
+addr=''
+id_l=''
+#
+# def save_imgs(img_url,id,name):
+#     print "I am saving image!"
+#     # i = choice(range(0,10))
+#     if not os.path.exists('/data4/imdb1_10/' + id):
+#         os.makedirs('/data4/imdb1_10/' + id)
+#     try:
+#         with open('/data4/imdb1_10/' + id + '/' + str(name) +'.jpg','wb') as p:
+#             img = urllib.urlopen(img_url).read()
+#             p.write(img)
+#             print "successful saving image!"
+#     except IOError, e:
+#         print e
+
+class DmozSpider(scrapy.Spider):
+    name = "imdb"
+    allowed_domains = ["imdb.com"]
+    def __init__(self,file=None,*args,**kwargs):
+	super(DmozSpider,self).__init__(*args,**kwargs)
+	global addr
+     	addr=file
+	global id_l
+	with open('/data4/ylchen/tutorial/cut/'+addr) as o: #modify 4
+    		id_l = o.readlines()
+
+    def start_requests(self):
+        global c
+        c = 0
+        try:
+            url_head = "http://www.imdb.com/name/"
+            for line in id_l:
+                line = line.strip().split(',')
+                id = line[0].replace('{"id": "','').replace('"','')
+                born = line[1].replace('"born": "u','').replace('"','')
+                if line[2].find('name') == -1:
+                    born = born + " " + line[2].replace('"','')
+                    star = line[3].replace('"name": "','').replace('"','')
+                    sex = line[4].replace('"sex": "','').replace('"}','')
+                else:
+                    star = line[2].replace('"name": "','').replace('"','')
+                    sex = line[3].replace('"sex": "','').replace('"}','')
+                # print born
+                # print star
+                # print sex
+                id = id
+                url = id + "/mediaindex?ref_=nm_phs_md_sm"
+                url = url_head + url
+                request = scrapy.FormRequest(url,callback=self.parse,meta={'id' : id})
+                request.meta['born'] = born
+                request.meta['star'] = star
+                request.meta['sex'] = sex
+                # In start_requests, FormRequest function meta attributes can be covered
+                yield request
+                c += 1
+        finally:
+            print "url ok!"
+
+
+    def parse(self, response):
+        global addr
+        id = response.meta['id']
+        star = response.meta['star']
+        sex = response.meta['sex']
+        born = response.meta['born']
+        #print id
+        try:
+            print "Try to get the reference image"
+            ref = response.xpath("//div[@class='subpage_title_block']/a/img[@class='poster']/@src").extract()
+            print ref
+            ref_pos = str(ref).find('_V1_')
+            ref = str(ref)[:ref_pos+4] + ".jpg"
+            ref = ref.replace("[u'","")
+            if not os.path.exists('/data4/imdb2/' + addr.replace(".txt",'')  + '/' + id + "/ref"): #modify 3
+                os.makedirs('/data4/imdb2/' + addr.replace(".txt",'')  + '/'  + id + "/ref")
+            with open('/data4/imdb2/' + addr.replace(".txt",'')  + '/'  + id + '/ref/ref.jpg','wb') as p:
+                img_ref = urllib.urlopen(ref).read()
+                p.write(img_ref)
+                print "Successful save the reference image!"
+        except IOError, e:
+            print e
+        item = TutorialItem()
+        for each in response.xpath("//div[@id='media_index_thumbnail_grid']/a"):
+            print "Start crawl first page information"
+            raw_url = each.xpath("./img/@src").extract()
+            pos = str(raw_url).find('_V1_')
+            pos2 = str(raw_url).find('/M/')
+            url = str(raw_url)[:pos+4] + ".jpg"
+            name = hashlib.sha1(url.replace("[u'","")).hexdigest()
+            item['photo'] = url
+            item['id'] = id
+            item['star'] = star
+            item['sex'] = sex
+            item['born'] = born
+            item['hash'] = name
+            photo_url = "http://www.imdb.com" + str(each.xpath("./@href").extract_first())
+            print "finish crawl first page information"
+            #save_imgs(str(url).replace("[u'",""),id,name)
+            print "finish save pictures form first page and start to crawl photo information"
+            driver.get(photo_url)
+            driver.implicitly_wait(30)
+            print "successful get in the information page in first page"
+            time.sleep(1)
+            #find photoes's age
+            year = driver.find_element_by_xpath("//div[@class='text-muted']/span").text
+            if year != None:
+                item['year'] = year
+            else:
+                item['year'] = "unknown"
+
+            #find photoes' people
+            people = driver.find_element_by_xpath("//div[@class='item-metadata']/div[1]").text
+            print people
+            if people.find("People") == -1:
+                people = driver.find_element_by_xpath("//div[@class='item-metadata']/div[2]").text
+            if people.find("People") != -1:
+                item['people'] = people
+            else:
+                item['people'] = "unknown"
+
+            #find topic/title
+            topic = driver.find_element_by_xpath("//div[@class='mediaviewer-image-info']/p").text
+            if topic != None:
+                item['topic'] = topic
+            else:
+                item['topic'] = "unknown"
+            yield item
+            print "Successfully get information from these page"
+
+        #crawl other pages
+        try:
+            print "c is %d" % c
+            print "Start to crawl other pages url from first page!"
+            num = response.xpath("//div[@class='media_index_pagination leftright'][1]/div[@id='left']/text()").extract()
+            num = str(num).replace("1-48 of ","").replace(" photos","")
+            num = re.sub("\D", "", num)
+            num = int(math.ceil((float)(num)/48.0))
+            print "Ready to crawl other pages url from first page!"
+            for figure in range(2,num+1):
+                next_url = "http://www.imdb.com/name/" + id + "/mediaindex?page=" + str(figure) +"&ref_=nmmi_mi_sm"
+                request =  Request(next_url, callback=self.parse_two,meta={'id': id})
+                request.meta['born'] = born
+                request.meta['star'] = star
+                request.meta['sex'] = sex
+                yield request
+        except IOError, e:
+            print e
+        finally:
+            print "Finish crawl other pages urls"
+
+    #other pages
+    def parse_two(self, response):
+        item = TutorialItem()
+        id = response.meta['id']
+        star = response.meta['star']
+        sex = response.meta['sex']
+        born = response.meta['born']
+        print "Start crawl other pages information"
+        for each in response.xpath("//div[@id='media_index_thumbnail_grid']/a"):
+            print "start crawl other page information"
+            raw_url = each.xpath("./img/@src").extract()
+            pos = str(raw_url).find('_V1_')
+            pos2 = str(raw_url).find('/M/')
+            url = str(raw_url)[:pos+4]+".jpg"
+            name = hashlib.sha1(url.replace("[u'","")).hexdigest()
+            item['photo'] = url
+            item['id'] = id
+            item['star'] = star
+            item['sex'] = sex
+            item['born'] = born
+            item['hash'] = name
+            photo_url = "http://www.imdb.com" + str(each.xpath("./@href").extract_first())
+            print "finish crawl other pages information"
+            #save_imgs(str(url).replace("[u'",""),id,name)
+            print "finish save other pages images"
+            driver.get(photo_url)
+            driver.implicitly_wait(30)
+            print "Successfully open other pages URL"
+            time.sleep(1)
+            print "Start crawl other pages image's information"
+            year = driver.find_element_by_xpath("//div[@class='text-muted']/span").text
+            if year != None:
+                item['year'] = year
+            else:
+                item['year'] = "unknown"
+
+            people = driver.find_element_by_xpath("//div[@class='item-metadata']/div[1]").text
+            if people.find("People") == -1:
+                people = driver.find_element_by_xpath("//div[@class='item-metadata']/div[2]").text
+            if people.find("People") != -1:
+                item['people'] = people
+            else:
+                item['people'] = "unknown"
+
+            #find topic/title
+            topic = driver.find_element_by_xpath("//div[@class='mediaviewer-image-info']/p").text
+            if topic != None:
+                item['topic'] = topic
+            else:
+                item['topic'] = "unknown"
+            print "Succesfully crawl this other pages image information"
+            yield item
+
+
+
+
+

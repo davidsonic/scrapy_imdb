@@ -1,0 +1,1000 @@
+{"id": "nm0914500", "born": "uNovember 12, u1975", "name": "Angela Watson", "sex": "Actress"}
+{"id": "nm0927042", "born": "uNovember 15, u1953", "name": "James Widdoes", "sex": "Actor"}
+{"id": "nm0640930", "born": "uMarch 4, u1922", "name": "[u\"Martha O'Driscoll\"]", "sex": "Actress"}
+{"id": "nm0420331", "born": "uJanuary 26, u1923", "name": "Anne Jeffreys", "sex": "Actress"}
+{"id": "nm6349873", "born": "", "name": "Gavin Lewis", "sex": "Actor"}
+{"id": "nm0005000", "born": "uMay 12, u1968", "name": "Tony Hawk", "sex": "Actor"}
+{"id": "nm0016589", "born": "uJuly 9, u1971", "name": "Shari Albert", "sex": "Actress"}
+{"id": "nm0739124", "born": "uJune 25, u1954", "name": "Lina Romay", "sex": "Actress"}
+{"id": "nm0000135", "born": "uDecember 31, u1943", "name": "John Denver", "sex": "Actor"}
+{"id": "nm0285569", "born": "uJune 29, u1979", "name": "Clementine Ford", "sex": "Actress"}
+{"id": "nm0412322", "born": "uJune 14, u1909", "name": "Burl Ives", "sex": "Actor"}
+{"id": "nm2005766", "born": "uFebruary 23, u1976", "name": "Mike Houston", "sex": "Actor"}
+{"id": "nm0804026", "born": "uJuly 18, u1913", "name": "Red Skelton", "sex": "Actor"}
+{"id": "nm2438791", "born": "", "name": "Mirrah Foulkes", "sex": "Actress"}
+{"id": "nm0333589", "born": "uJune 8, u1944", "name": "Don Grady", "sex": "Actor"}
+{"id": "nm0035602", "born": "uMarch 2, u1970", "name": "Alexander Armstrong", "sex": "Actor"}
+{"id": "nm1034386", "born": "uJuly 12, u1971", "name": "Claudia Katz", "sex": "Actress"}
+{"id": "nm0677597", "born": "uAugust 13, u1949", "name": "Philippe Petit", "sex": "Actor"}
+{"id": "nm3823418", "born": "", "name": "Miles Elliot", "sex": "Actor"}
+{"id": "nm0737963", "born": "uAugust 20, u1954", "name": "Al Roker", "sex": "Actor"}
+{"id": "nm0287168", "born": "", "name": "Marlene Forte", "sex": "Actress"}
+{"id": "nm0956751", "born": "", "name": "Luke Zimmerman", "sex": "Actor"}
+{"id": "nm0289030", "born": "uOctober 6, u1974", "name": "Huckleberry Fox", "sex": "Actor"}
+{"id": "nm0500610", "born": "", "name": "David Leitch", "sex": "Actor"}
+{"id": "nm0939931", "born": "uFebruary 9, u1892", "name": "Peggy Wood", "sex": "Actress"}
+{"id": "nm0003104", "born": "uFebruary 6, u1943", "name": "Fabian", "sex": "Actor"}
+{"id": "nm0133597", "born": "uAugust 25, u1938", "name": "David Canary", "sex": "Actor"}
+{"id": "nm0397788", "born": "", "name": "Brian Howe", "sex": "Actor"}
+{"id": "nm0070830", "born": "uNovember 12, u1974", "name": "Lourdes Benedicto", "sex": "Actress"}
+{"id": "nm4120586", "born": "", "name": "Adam Bucci", "sex": "Actor"}
+{"id": "nm1361530", "born": "uAugust 25, u1973", "name": "Steve Oram", "sex": "Actor"}
+{"id": "nm0762017", "born": "uMay 29, u1962", "name": "Debra Stipe", "sex": "Actress"}
+{"id": "nm3617801", "born": "", "name": "Lydia Rose Bewley", "sex": "Actress"}
+{"id": "nm1415692", "born": "uDecember 18, u1980", "name": "Everlayn Borges", "sex": "Actress"}
+{"id": "nm1925026", "born": "uApril 27, u1987", "name": "Laura Ortiz", "sex": "Actress"}
+{"id": "nm0865411", "born": "uMarch 28, u1965", "name": "Srdjan Todorovic", "sex": "Actor"}
+{"id": "nm0299301", "born": "", "name": "John Fusco", "sex": "Actor"}
+{"id": "nm0537146", "born": "uFebruary 7, u1919", "name": "Jock Mahoney", "sex": "Actor"}
+{"id": "nm0005089", "born": "uNovember 23, u1964", "name": "Boyd Kestner", "sex": "Actor"}
+{"id": "nm0552633", "born": "uJuly 26, u1944", "name": "Kiel Martin", "sex": "Actor"}
+{"id": "nm2210617", "born": "", "name": "Hayley Holmes", "sex": "Actress"}
+{"id": "nm0294379", "born": "uDecember 5, u1967", "name": "Juan Carlos Fresnadillo", "sex": "Actor"}
+{"id": "nm2116226", "born": "uSeptember 15, u1993", "name": "Kelly Heyer", "sex": "Actress"}
+{"id": "nm0589334", "born": "", "name": "Sherry Miller", "sex": "Actress"}
+{"id": "nm0569951", "born": "uFebruary 7, u1948", "name": "Michael McGreevey", "sex": "Actor"}
+{"id": "nm5549251", "born": "", "name": "Forrest Wheeler", "sex": "Actor"}
+{"id": "nm5941025", "born": "uNovember 7, u1996", "name": "Lorde", "sex": "Actor"}
+{"id": "nm0801838", "born": "uOctober 16, u1947", "name": "Guy Siner", "sex": "Actor"}
+{"id": "nm5050435", "born": "", "name": "Nesta Cooper", "sex": "Actress"}
+{"id": "nm1855849", "born": "uAugust 23, u1983", "name": "Kristine Cofsky", "sex": "Actress"}
+{"id": "nm4917921", "born": "", "name": "Devin Druid", "sex": "Actor"}
+{"id": "nm0949775", "born": "uSeptember 6, u1947", "name": "Keone Young", "sex": "Actor"}
+{"id": "nm3692520", "born": "", "name": "Teyana Taylor", "sex": "Actress"}
+{"id": "nm1132876", "born": "", "name": "Judith Moreland", "sex": "Actress"}
+{"id": "nm1332454", "born": "uJuly 9, u1969", "name": "Carlos Leal", "sex": "Actor"}
+{"id": "nm2337445", "born": "uJuly 30, u1990", "name": "Molly McCook", "sex": "Actress"}
+{"id": "nm0680272", "born": "uJune 11, u1963", "name": "Britta Phillips", "sex": "Actress"}
+{"id": "nm1965417", "born": "uJanuary 27, u1996", "name": "Braeden Lemasters", "sex": "Actor"}
+{"id": "nm0256216", "born": "uOctober 29, u1897", "name": "Hope Emerson", "sex": "Actress"}
+{"id": "nm2431797", "born": "", "name": "John Behlmann", "sex": "Actor"}
+{"id": "nm0861943", "born": "uDecember 1, u1928", "name": "Malachi Throne", "sex": "Actor"}
+{"id": "nm0065764", "born": "uJuly 6, u1947", "name": "Richard Beckinsale", "sex": "Actor"}
+{"id": "nm0126921", "born": "", "name": "Catherine B\\xe9rub\\xe9", "sex": "Actress"}
+{"id": "nm0311816", "born": "", "name": "Linda Gehringer", "sex": "Actress"}
+{"id": "nm0279727", "born": "uJanuary 5, u1978", "name": "Patrice Fisher", "sex": "Actress"}
+{"id": "nm0562770", "born": "uJuly 21, u1895", "name": "Ken Maynard", "sex": "Actor"}
+{"id": "nm0153691", "born": "uOctober 20, u1933", "name": "Barrie Chase", "sex": "Actress"}
+{"id": "nm0723432", "born": "uMarch 13, u1965", "name": "Gigi Rice", "sex": "Actress"}
+{"id": "nm2459979", "born": "uJanuary 13, u1987", "name": "Parker Croft", "sex": "Actor"}
+{"id": "nm0564344", "born": "", "name": "Loree McBride", "sex": "Actor"}
+{"id": "nm1865998", "born": "uOctober 4, u1988", "name": "Erika Mori", "sex": "Actress"}
+{"id": "nm1492939", "born": "", "name": "Bryony Hannah", "sex": "Actress"}
+{"id": "nm0847223", "born": "uOctober 29, u1935", "name": "Isao Takahata", "sex": "Actor"}
+{"id": "nm1675076", "born": "", "name": "Callard Harris", "sex": "Actor"}
+{"id": "nm0110433", "born": "uMay 13, u1957", "name": "Eloise DeJoria", "sex": "Actress"}
+{"id": "nm0740220", "born": "uNovember 24, u1976", "name": "Michael Roof", "sex": "Actor"}
+{"id": "nm2351647", "born": "uAugust 5, u1987", "name": "Lexi Belle", "sex": "Actress"}
+{"id": "nm1502522", "born": "uNovember 3, u1996", "name": "Aria Wallace", "sex": "Actress"}
+{"id": "nm1743166", "born": "uMay 14, u1986", "name": "Camila Sodi", "sex": "Actress"}
+{"id": "nm0195942", "born": "", "name": "[u\"Romina D'Ugo\"]", "sex": "Actress"}
+{"id": "nm1164552", "born": "uNovember 20, u1974", "name": "Florian David Fitz", "sex": "Actor"}
+{"id": "nm5590139", "born": "", "name": "Alysa King", "sex": "Actress"}
+{"id": "nm4172117", "born": "", "name": "Keahu Kahuanui", "sex": "Actor"}
+{"id": "nm0038673", "born": "uJanuary 13, u1977", "name": "William Ash", "sex": "Actor"}
+{"id": "nm0363518", "born": "uMay 1, u1940", "name": "Joy Harmon", "sex": "Actress"}
+{"id": "nm4457775", "born": "", "name": "Ella Hunt", "sex": "Actress"}
+{"id": "nm0653959", "born": "uAugust 10, u1954", "name": "Rick Overton", "sex": "Actor"}
+{"id": "nm0203301", "born": "uOctober 24, u1954", "name": "Doug Davidson", "sex": "Actor"}
+{"id": "nm2916966", "born": "", "name": "David Ajala", "sex": "Actor"}
+{"id": "nm6722749", "born": "", "name": "Lucas Jade Zumann", "sex": "Actor"}
+{"id": "nm1756674", "born": "uAugust 14, u1979", "name": "Jamie Parker", "sex": "Actor"}
+{"id": "nm3407550", "born": "uJuly 26, u1986", "name": "Sarah Stouffer", "sex": "Actress"}
+{"id": "nm0733500", "born": "uApril 29, u1946", "name": "Wayne Robson", "sex": "Actor"}
+{"id": "nm1968140", "born": "uJuly 8, u1988", "name": "Liz Katz", "sex": "Actress"}
+{"id": "nm0005159", "born": "uMarch 3, u1966", "name": "Tone Loc", "sex": "Actor"}
+{"id": "nm1722577", "born": "uNovember 26, u1975", "name": "D.J. Khaled", "sex": "Actor"}
+{"id": "nm1890963", "born": "uJuly 25, u1988", "name": "Linsey Godfrey", "sex": "Actress"}
+{"id": "nm3086341", "born": "", "name": "Lena Banks", "sex": "Actress"}
+{"id": "nm0667207", "born": "uOctober 12, u1986", "name": "Marcus T. Paulk", "sex": "Actor"}
+{"id": "nm1168915", "born": "uApril 26, u1981", "name": "Michael Dorman", "sex": "Actor"}
+{"id": "nm0821179", "born": "", "name": "Hanala Sagal", "sex": "Actress"}
+{"id": "nm1955925", "born": "uAugust 21, u1983", "name": "Brody Jenner", "sex": "Actor"}
+{"id": "nm1549341", "born": "uDecember 20, u1991", "name": "Hunter Gomez", "sex": "Actor"}
+{"id": "nm0851610", "born": "", "name": "Jay Tavare", "sex": "Actor"}
+{"id": "nm0675134", "born": "uJanuary 4, u1941", "name": "John Bennett Perry", "sex": "Actor"}
+{"id": "nm0118011", "born": "uJune 16, u1957", "name": "Ian Buchanan", "sex": "Actor"}
+{"id": "nm1477213", "born": "", "name": "Elena Goode", "sex": "Actress"}
+{"id": "nm0007188", "born": "uJanuary 9, u1970", "name": "Marco Sanchez", "sex": "Actor"}
+{"id": "nm0256890", "born": "uJuly 8, u1955", "name": "Lena Endre", "sex": "Actress"}
+{"id": "nm0641640", "born": "uOctober 19, u1957", "name": "[u\"William O'Leary\"]", "sex": "Actor"}
+{"id": "nm0101603", "born": "uDecember 1, u1973", "name": "Lombardo Boyar", "sex": "Actor"}
+{"id": "nm2143583", "born": "", "name": "Lisa Linnertorp", "sex": "Actress"}
+{"id": "nm0860705", "born": "", "name": "Shawn Thompson", "sex": "Actor"}
+{"id": "nm0257821", "born": "uJuly 27, u1957", "name": "Bill Engvall", "sex": "Actor"}
+{"id": "nm1440137", "born": "uOctober 31, u1991", "name": "Jordan-Claire Green", "sex": "Actress"}
+{"id": "nm0932265", "born": "uMarch 1, u1978", "name": "Alicia Leigh Willis", "sex": "Actress"}
+{"id": "nm5327351", "born": "", "name": "Naika Toussaint", "sex": "Actress"}
+{"id": "nm1895993", "born": "", "name": "[u\"Brendan O'Brien\"]", "sex": "Actor"}
+{"id": "nm2539870", "born": "", "name": "Julian Black Antelope", "sex": "Actor"}
+{"id": "nm1024868", "born": "uMarch 3, u1980", "name": "Mei Melan\\xe7on", "sex": "Actress"}
+{"id": "nm1493547", "born": "uAugust 2, u1984", "name": "Chiara Mastalli", "sex": "Actress"}
+{"id": "nm3092800", "born": "", "name": "Donis Leonard Jr.", "sex": "Actor"}
+{"id": "nm3363398", "born": "", "name": "Hunter Burke", "sex": "Actor"}
+{"id": "nm0365128", "born": "uApril 19, u1954", "name": "Moira Sinise", "sex": "Actress"}
+{"id": "nm1045739", "born": "uDecember 6, u1985", "name": "Max Kasch", "sex": "Actor"}
+{"id": "nm1759996", "born": "uMay 19, u1987", "name": "Linzey Cocker", "sex": "Actress"}
+{"id": "nm3193435", "born": "", "name": "Erin McGathy", "sex": "Actress"}
+{"id": "nm1135423", "born": "uJanuary 11, u1979", "name": "Darren Lynn Bousman", "sex": "Actor"}
+{"id": "nm0339233", "born": "uOctober 9, u1979", "name": "Alex Greenwald", "sex": "Actor"}
+{"id": "nm0366063", "born": "uJune 29, u1920", "name": "Ray Harryhausen", "sex": "Actor"}
+{"id": "nm5009418", "born": "", "name": "Victoria Levine", "sex": "Actress"}
+{"id": "nm0803155", "born": "uSeptember 30, u1972", "name": "Meadow Sisto", "sex": "Actress"}
+{"id": "nm0298750", "born": "uJune 30, u1944", "name": "Terry Funk", "sex": "Actor"}
+{"id": "nm0853805", "born": "", "name": "Jill Teed", "sex": "Actress"}
+{"id": "nm0277355", "born": "", "name": "Brittany Renee Finamore", "sex": "Actress"}
+{"id": "nm0011752", "born": "uDecember 12, u1976", "name": "Maren Ade", "sex": "Actor"}
+{"id": "nm0286129", "born": "uApril 17, u1929", "name": "Michael Forest", "sex": "Actor"}
+{"id": "nm7919266", "born": "", "name": "Andre Flynn", "sex": "Actor"}
+{"id": "nm1340762", "born": "", "name": "Kelli King", "sex": "Actress"}
+{"id": "nm0284496", "born": "uNovember 8, u1958", "name": "Phil Fondacaro", "sex": "Actor"}
+{"id": "nm1471491", "born": "uJune 13, u1975", "name": "Jeff Davis", "sex": "Actor"}
+{"id": "nm0528647", "born": "uApril 2, u1936", "name": "Cynthia Lynn", "sex": "Actress"}
+{"id": "nm2407067", "born": "uJanuary 18, u1993", "name": "Sean Keenan", "sex": "Actor"}
+{"id": "nm0668241", "born": "uMay 24, u1969", "name": "Carl Anthony Payne II", "sex": "Actor"}
+{"id": "nm0994538", "born": "uOctober 12, u1972", "name": "Joseph Kahn", "sex": "Actor"}
+{"id": "nm0098733", "born": "uApril 22, u1954", "name": "Joseph Bottoms", "sex": "Actor"}
+{"id": "nm4097479", "born": "", "name": "George Basil", "sex": "Actor"}
+{"id": "nm0055003", "born": "uNovember 14, u1975", "name": "Travis Barker", "sex": "Actor"}
+{"id": "nm0056770", "born": "uMarch 5, u1956", "name": "Adriana Barraza", "sex": "Actress"}
+{"id": "nm1990511", "born": "", "name": "Natalie Lisinska", "sex": "Actress"}
+{"id": "nm1978402", "born": "uMarch 11, u1978", "name": "Jung-woo Ha", "sex": "Actor"}
+{"id": "nm2104063", "born": "u1970", "name": "Eric Heisserer", "sex": "Actor"}
+{"id": "nm0064040", "born": "uJune 26, u1943", "name": "John Beasley", "sex": "Actor"}
+{"id": "nm0182853", "born": "uJune 17, u1965", "name": "Kami Cotler", "sex": "Actress"}
+{"id": "nm0005498", "born": "uDecember 30, u1945", "name": "Concetta Tomei", "sex": "Actress"}
+{"id": "nm0285768", "born": "u1966", "name": "Maria Ford", "sex": "Actress"}
+{"id": "nm5264109", "born": "uSeptember 27, u1991", "name": "Dillion Harper", "sex": "Actress"}
+{"id": "nm1105858", "born": "", "name": "Danny McNulty", "sex": "Actor"}
+{"id": "nm0610831", "born": "uMay 20, u1967", "name": "Gabriele Muccino", "sex": "Actor"}
+{"id": "nm0017377", "born": "uOctober 13, u1942", "name": "Rutanya Alda", "sex": "Actress"}
+{"id": "nm0312245", "born": "uJune 3, u1949", "name": "Ian Gelder", "sex": "Actor"}
+{"id": "nm0398205", "born": "", "name": "Richard Howland", "sex": "Actor"}
+{"id": "nm0255065", "born": "uJanuary 8, u1942", "name": "Robin Ellis", "sex": "Actor"}
+{"id": "nm0818454", "born": "uApril 26, u1952", "name": "Spice Williams-Crosby", "sex": "Actress"}
+{"id": "nm0600915", "born": "uSeptember 30, u1981", "name": "Ashleigh Aston Moore", "sex": "Actress"}
+{"id": "nm5459962", "born": "", "name": "Emily Burns", "sex": "Actress"}
+{"id": "nm2308774", "born": "uNovember 23, u1978", "name": "Destin Daniel Cretton", "sex": "Actor"}
+{"id": "nm2514879", "born": "u1988", "name": "Yuqi Zhang", "sex": "Actress"}
+{"id": "nm0047815", "born": "uMarch 15, u1962", "name": "Jimmy Baio", "sex": "Actor"}
+{"id": "nm2584423", "born": "uMay 2, u1983", "name": "Elizabeth Ho", "sex": "Actress"}
+{"id": "nm0293530", "born": "uJune 9, u1926", "name": "Mona Freeman", "sex": "Actress"}
+{"id": "nm6791359", "born": "", "name": "Lynn Marocola", "sex": "Actress"}
+{"id": "nm0219106", "born": "uApril 15, u1964", "name": "Lydie Denier", "sex": "Actress"}
+{"id": "nm2546716", "born": "uSeptember, u2002", "name": "Riley Thomas Stewart", "sex": "Actor"}
+{"id": "nm0513598", "born": "", "name": "David Lipper", "sex": "Actor"}
+{"id": "nm0005217", "born": "uSeptember 27, u1919", "name": "Jayne Meadows", "sex": "Actress"}
+{"id": "nm0847099", "born": "", "name": "Aaron Takahashi", "sex": "Actor"}
+{"id": "nm2299825", "born": "uNovember 1, u1987", "name": "Ileana", "sex": "Actress"}
+{"id": "nm0508993", "born": "uJanuary 4, u1971", "name": "Jeremy Licht", "sex": "Actor"}
+{"id": "nm0358007", "born": "uMarch 2, u1964", "name": "Laird John Hamilton", "sex": "Actor"}
+{"id": "nm0281619", "born": "uAugust 16, u1974", "name": "Carrie Anne Fleming", "sex": "Actress"}
+{"id": "nm0164682", "born": "uNovember 6, u1957", "name": "Cam Clarke", "sex": "Actor"}
+{"id": "nm0086800", "born": "uJuly 28, u1968", "name": "Rachel Blakely", "sex": "Actress"}
+{"id": "nm7363602", "born": "uSeptember 30, u2005", "name": "Nathan Arenas", "sex": "Actor"}
+{"id": "nm0046373", "born": "uAugust 5, u1914", "name": "Parley Baer", "sex": "Actor"}
+{"id": "nm1584283", "born": "uJuly 22, u1980", "name": "Lauren Bittner", "sex": "Actress"}
+{"id": "nm1566368", "born": "", "name": "Regina Bland\\xf3n", "sex": "Actress"}
+{"id": "nm0533489", "born": "uAugust, u1962", "name": "Doon Mackichan", "sex": "Actress"}
+{"id": "nm0587944", "born": "uFebruary 6, u1958", "name": "Barry Miller", "sex": "Actor"}
+{"id": "nm0054214", "born": "uMarch 7, u1963", "name": "Carlos Bardem", "sex": "Actor"}
+{"id": "nm0059844", "born": "uSeptember 22, u1943", "name": "Toni Basil", "sex": "Actress"}
+{"id": "nm1102970", "born": "uDecember 27, u1969", "name": "Sarah Vowell", "sex": "Actress"}
+{"id": "nm0569458", "born": "uAugust 10, u1972", "name": "Michael McGlone", "sex": "Actor"}
+{"id": "nm2618325", "born": "", "name": "Justin Berti", "sex": "Actor"}
+{"id": "nm2128084", "born": "", "name": "Crystal Mantecon", "sex": "Actress"}
+{"id": "nm0477297", "born": "uJuly 18, u1930", "name": "Burt Kwouk", "sex": "Actor"}
+{"id": "nm7503336", "born": "", "name": "Michael Barbieri", "sex": "Actor"}
+{"id": "nm4269702", "born": "", "name": "Amanda Woods", "sex": "Actress"}
+{"id": "nm0541562", "born": "uJuly 14, u1958", "name": "Gail Mancuso", "sex": "Actor"}
+{"id": "nm0097842", "born": "uSeptember 26, u1930", "name": "Philip Bosco", "sex": "Actor"}
+{"id": "nm0131622", "born": "uSeptember 20, u1951", "name": "JoAnna Cameron", "sex": "Actress"}
+{"id": "nm0245145", "born": "uMay 29, u1958", "name": "Wayne Duvall", "sex": "Actor"}
+{"id": "nm4785386", "born": "", "name": "Marcus Rosner", "sex": "Actor"}
+{"id": "nm0589474", "born": "uApril 16, u1974", "name": "Valarie Rae Miller", "sex": "Actress"}
+{"id": "nm1156977", "born": "uMarch 24, u1981", "name": "Neil Grayston", "sex": "Actor"}
+{"id": "nm4719471", "born": "", "name": "Isabelle N\\xe9lisse", "sex": "Actress"}
+{"id": "nm0000269", "born": "uOctober 1, u1943", "name": "Jean-Jacques Annaud", "sex": "Actor"}
+{"id": "nm0523116", "born": "uFebruary 22, u1965", "name": "Scott Lowell", "sex": "Actor"}
+{"id": "nm3730556", "born": "uSeptember 16, u1984", "name": "Ali Fedotowsky", "sex": "Actress"}
+{"id": "nm0045322", "born": "uApril 27, u1973", "name": "Jillian Bach", "sex": "Actress"}
+{"id": "nm0001468", "born": "uApril 12, u1947", "name": "David Letterman", "sex": "Actor"}
+{"id": "nm0925232", "born": "uMay 29, u1969", "name": "Michole Briana White", "sex": "Actress"}
+{"id": "nm0456796", "born": "uAugust 10, u1974", "name": "Craig Kirkwood", "sex": "Actor"}
+{"id": "nm0226195", "born": "", "name": "Bo Dietl", "sex": "Actor"}
+{"id": "nm0205295", "born": "uJuly 17, u1940", "name": "Phyllis Davis", "sex": "Actress"}
+{"id": "nm1837967", "born": "", "name": "Kelly Gould", "sex": "Actress"}
+{"id": "nm0418152", "born": "uMay 25, u1938", "name": "Eilene Janssen", "sex": "Actress"}
+{"id": "nm1035643", "born": "uAugust 17, u1989", "name": "Frederick Lau", "sex": "Actor"}
+{"id": "nm3419668", "born": "", "name": "Aisha Dee", "sex": "Actress"}
+{"id": "nm0042487", "born": "uDecember 20, u1941", "name": "Pamela Austin", "sex": "Actress"}
+{"id": "nm1406730", "born": "uFebruary 20, u1974", "name": "Geoff Gustafson", "sex": "Actor"}
+{"id": "nm0601469", "born": "uJanuary 24, u1971", "name": "Kenya Moore", "sex": "Actress"}
+{"id": "nm2884159", "born": "uMarch 15, u1982", "name": "Lauren Melendez", "sex": "Actress"}
+{"id": "nm3880577", "born": "", "name": "Alicia Vita Jones", "sex": "Actress"}
+{"id": "nm0002013", "born": "uJune 19, u1877", "name": "Charles Coburn", "sex": "Actor"}
+{"id": "nm0025440", "born": "uDecember 14, u1908", "name": "Morey Amsterdam", "sex": "Actor"}
+{"id": "nm0364593", "born": "uMay 23, u1959", "name": "David Harris", "sex": "Actor"}
+{"id": "nm0498007", "born": "uMay 26, u1920", "name": "Peggy Lee", "sex": "Actress"}
+{"id": "nm0111765", "born": "uMarch 3, u1971", "name": "Charlie Brooker", "sex": "Actor"}
+{"id": "nm1440135", "born": "u1991", "name": "Caitlin Hale", "sex": "Actress"}
+{"id": "nm0323239", "born": "", "name": "Will Gluck", "sex": "Actor"}
+{"id": "nm0936476", "born": "uMay 15, u1918", "name": "Joseph Wiseman", "sex": "Actor"}
+{"id": "nm0402281", "born": "uFebruary 6, u1943", "name": "Gayle Hunnicutt", "sex": "Actress"}
+{"id": "nm0724657", "born": "uOctober 3, u1971", "name": "Kevin Scott Richardson", "sex": "Actor"}
+{"id": "nm6806246", "born": "uNovember 6, u1990", "name": "Kris Wu", "sex": "Actor"}
+{"id": "nm0254760", "born": "uApril 14, u1956", "name": "Chris Ellis", "sex": "Actor"}
+{"id": "nm3645738", "born": "", "name": "Nosheen Phoenix", "sex": "Actress"}
+{"id": "nm0744023", "born": "uMay 8, u1906", "name": "Roberto Rossellini", "sex": "Actor"}
+{"id": "nm0356448", "born": "uSeptember 5, u1935", "name": "Dieter Hallervorden", "sex": "Actor"}
+{"id": "nm3195528", "born": "uMarch 26, u1983", "name": "Matt Barber", "sex": "Actor"}
+{"id": "nm0943180", "born": "uFebruary 5, u1966", "name": "Vivian Wu", "sex": "Actress"}
+{"id": "nm0427869", "born": "", "name": "David Haydn-Jones", "sex": "Actor"}
+{"id": "nm6531222", "born": "", "name": "Kaye L. Morris", "sex": "Actress"}
+{"id": "nm4747120", "born": "", "name": "Matt Marr", "sex": "Actor"}
+{"id": "nm4973896", "born": "", "name": "Taylor John Smith", "sex": "Actor"}
+{"id": "nm0480118", "born": "uMarch 2, u1971", "name": "Elizabeth Lackey", "sex": "Actress"}
+{"id": "nm0342245", "born": "uJanuary 30, u1934", "name": "Tammy Grimes", "sex": "Actress"}
+{"id": "nm1845172", "born": "", "name": "Joe Gnoffo", "sex": "Actor"}
+{"id": "nm0729557", "born": "uJanuary 20, u1968", "name": "Melissa Rivers", "sex": "Actress"}
+{"id": "nm1885797", "born": "uFebruary 10, u1978", "name": "Don Omar", "sex": "Actor"}
+{"id": "nm2907476", "born": "uJuly 21, u1983", "name": "Tara Yelland", "sex": "Actress"}
+{"id": "nm0114847", "born": "uMarch 24, u1928", "name": "Vanessa Brown", "sex": "Actress"}
+{"id": "nm2428370", "born": "u1998", "name": "Theo Stevenson", "sex": "Actor"}
+{"id": "nm0314761", "born": "uDecember 21, u1957", "name": "Lisa Gerritsen", "sex": "Actress"}
+{"id": "nm0024925", "born": "u1966", "name": "Hossein Amini", "sex": "Actor"}
+{"id": "nm0516148", "born": "uNovember 11, u1934", "name": "Suzanne Lloyd", "sex": "Actress"}
+{"id": "nm0165551", "born": "uSeptember 18, u1946", "name": "Nicholas Clay", "sex": "Actor"}
+{"id": "nm0662744", "born": "uFebruary 9, u1973", "name": "Shaun Parkes", "sex": "Actor"}
+{"id": "nm1446934", "born": "uSeptember 21, u1981", "name": "Katie Cleary", "sex": "Actress"}
+{"id": "nm7194079", "born": "", "name": "Bella Hadid", "sex": "Actor"}
+{"id": "nm0056492", "born": "uMay 1, u1949", "name": "Douglas Barr", "sex": "Actor"}
+{"id": "nm0105046", "born": "uNovember 15, u1975", "name": "J.C. Brandy", "sex": "Actress"}
+{"id": "nm2582755", "born": "", "name": "Pierre Niney", "sex": "Actor"}
+{"id": "nm0363705", "born": "uNovember 16, u1968", "name": "Christine Harnos", "sex": "Actress"}
+{"id": "nm1512156", "born": "uAugust 16, u1969", "name": "Kate Higgins", "sex": "Actress"}
+{"id": "nm6026206", "born": "", "name": "Adam Greaves-Neal", "sex": "Actor"}
+{"id": "nm0205651", "born": "", "name": "Wendy Davis", "sex": "Actress"}
+{"id": "nm4489783", "born": "", "name": "Jade Hassoun\\xe9", "sex": "Actor"}
+{"id": "nm3330122", "born": "", "name": "Wilko Johnson", "sex": "Actor"}
+{"id": "nm4743587", "born": "", "name": "Brendan Dooling", "sex": "Actor"}
+{"id": "nm1561415", "born": "u1981", "name": "Lorraine Burroughs", "sex": "Actress"}
+{"id": "nm0635826", "born": "uSeptember 2, u1940", "name": "Jan Norris", "sex": "Actress"}
+{"id": "nm0026392", "born": "uNovember 27, u1945", "name": "Barbara Anderson", "sex": "Actress"}
+{"id": "nm0574296", "born": "u1952", "name": "Kris McQuade", "sex": "Actress"}
+{"id": "nm5031540", "born": "", "name": "Christian Michael Cooper", "sex": "Actor"}
+{"id": "nm0863024", "born": "uSeptember 24, u1942", "name": "Kenneth Tigar", "sex": "Actor"}
+{"id": "nm2943385", "born": "uFebruary 4, u1986", "name": "Augie Duke", "sex": "Actress"}
+{"id": "nm1679101", "born": "uDecember 16, u1990", "name": "Julito McCullum", "sex": "Actor"}
+{"id": "nm0640344", "born": "uNovember 19, u1955", "name": "[u\"Glynnis O'Connor\"]", "sex": "Actress"}
+{"id": "nm0000721", "born": "uJuly 4, u1959", "name": "Victoria Abril", "sex": "Actress"}
+{"id": "nm0928134", "born": "uFebruary 20, u1958", "name": "James Wilby", "sex": "Actor"}
+{"id": "nm0473802", "born": "uJanuary 17, u1971", "name": "Y\\xfbki Kud\\xf4", "sex": "Actress"}
+{"id": "nm0625343", "born": "uDecember 21, u1928", "name": "Ed Nelson", "sex": "Actor"}
+{"id": "nm0563383", "born": "", "name": "Kathe Mazur", "sex": "Actress"}
+{"id": "nm0454415", "born": "uJuly 21, u1955", "name": "Adrienne King", "sex": "Actress"}
+{"id": "nm1643154", "born": "uFebruary 27, u1980", "name": "Stephen Wight", "sex": "Actor"}
+{"id": "nm0424260", "born": "", "name": "Alexandra Johnes", "sex": "Actress"}
+{"id": "nm0431662", "born": "", "name": "Michelle Joyner", "sex": "Actress"}
+{"id": "nm0946811", "born": "uJuly 24, u1929", "name": "Peter Yates", "sex": "Actor"}
+{"id": "nm2053066", "born": "uSeptember 13, u1986", "name": "Trevor Duke-Moretz", "sex": "Actor"}
+{"id": "nm6889864", "born": "", "name": "Lulu Lambros", "sex": "Actress"}
+{"id": "nm4292233", "born": "", "name": "Kim Lee", "sex": "Actress"}
+{"id": "nm5358731", "born": "", "name": "Drew Justice", "sex": "Actor"}
+{"id": "nm0158306", "born": "uFebruary 5, u1971", "name": "David Chisum", "sex": "Actor"}
+{"id": "nm3178503", "born": "", "name": "Erin Elizabeth Burns", "sex": "Actress"}
+{"id": "nm0886556", "born": "uMarch 9, u1941", "name": "Trish Van Devere", "sex": "Actress"}
+{"id": "nm0877681", "born": "uDecember 21, u1966", "name": "Karri Turner", "sex": "Actress"}
+{"id": "nm3007529", "born": "", "name": "Kimberly Whalen", "sex": "Actress"}
+{"id": "nm3522249", "born": "", "name": "Katherine Murphy", "sex": "Actress"}
+{"id": "nm1098541", "born": "u1981", "name": "Jacqui Maxwell", "sex": "Actress"}
+{"id": "nm1742739", "born": "", "name": "Victoria Cartagena", "sex": "Actress"}
+{"id": "nm5506401", "born": "", "name": "Jasmin Savoy Brown", "sex": "Actress"}
+{"id": "nm0813940", "born": "uApril 15, u1940", "name": "Julie Sommars", "sex": "Actress"}
+{"id": "nm0862932", "born": "uSeptember 26, u1979", "name": "Jacob Tierney", "sex": "Actor"}
+{"id": "nm0001160", "born": "uAugust 1, u1958", "name": "Adrian Dunbar", "sex": "Actor"}
+{"id": "nm0461945", "born": "", "name": "Mpho Koaho", "sex": "Actor"}
+{"id": "nm3798384", "born": "uAugust 29, u1993", "name": "Liam Payne", "sex": "Actor"}
+{"id": "nm0697733", "born": "uJanuary 26, u1913", "name": "William Prince", "sex": "Actor"}
+{"id": "nm0669853", "born": "uNovember 24, u1970", "name": "Aaron Pedersen", "sex": "Actor"}
+{"id": "nm0628054", "born": "uMay 12, u1976", "name": "Daniel Newman", "sex": "Actor"}
+{"id": "nm0801050", "born": "uFebruary 21, u1956", "name": "Jim Simpson", "sex": "Actor"}
+{"id": "nm0839881", "born": "uJanuary 17, u1947", "name": "Todd Susman", "sex": "Actor"}
+{"id": "nm0517867", "born": "uJanuary 29, u1980", "name": "Katie Lohmann", "sex": "Actress"}
+{"id": "nm0424706", "born": "uFebruary 8, u1944", "name": "Candy Johnson", "sex": "Actress"}
+{"id": "nm0633595", "born": "uMarch 5, u1922", "name": "James Noble", "sex": "Actor"}
+{"id": "nm0167408", "born": "uMay 2, u1980", "name": "K.C. Clyde", "sex": "Actor"}
+{"id": "nm2353430", "born": "uAugust 29, u1985", "name": "Ami\\xe9e Conn", "sex": "Actress"}
+{"id": "nm0090196", "born": "u1972", "name": "Lee Boardman", "sex": "Actor"}
+{"id": "nm1476928", "born": "", "name": "Sebastian Sozzi", "sex": "Actor"}
+{"id": "nm1017793", "born": "uMarch 21, u1979", "name": "Nicholas J. Coleman", "sex": "Actor"}
+{"id": "nm6836919", "born": "", "name": "Madison Horcher", "sex": "Actress"}
+{"id": "nm5160381", "born": "uJune 9, u2004", "name": "Loreto Peralta", "sex": "Actress"}
+{"id": "nm2458152", "born": "uSeptember 23, u1984", "name": "CariDee English", "sex": "Actress"}
+{"id": "nm3292692", "born": "", "name": "Matt Lintz", "sex": "Actor"}
+{"id": "nm0668283", "born": "", "name": "Chris Payne Gilbert", "sex": "Actor"}
+{"id": "nm0188950", "born": "uFebruary 12, u1934", "name": "Annette Crosbie", "sex": "Actress"}
+{"id": "nm0154195", "born": "", "name": "Charlotte Chatton", "sex": "Actress"}
+{"id": "nm5771189", "born": "", "name": "Arryn Zech", "sex": "Actress"}
+{"id": "nm2517511", "born": "", "name": "Casey Groves", "sex": "Actor"}
+{"id": "nm0680489", "born": "", "name": "Jeff Daniel Phillips", "sex": "Actor"}
+{"id": "nm0003162", "born": "uNovember 11, u1951", "name": "Marc Summers", "sex": "Actor"}
+{"id": "nm0141846", "born": "uSeptember 13, u1948", "name": "Nell Carter", "sex": "Actress"}
+{"id": "nm1518150", "born": "", "name": "Mike Stoklasa", "sex": "Actor"}
+{"id": "nm2145986", "born": "uJuly 12, u1985", "name": "Natasha Poly", "sex": "Actor"}
+{"id": "nm0699120", "born": "uSeptember 25, u1936", "name": "Juliet Prowse", "sex": "Actress"}
+{"id": "nm0681949", "born": "uFebruary 8, u1952", "name": "Carolyn Pickles", "sex": "Actress"}
+{"id": "nm1461267", "born": "uAugust 15, u1980", "name": "Natalie Press", "sex": "Actress"}
+{"id": "nm0034390", "born": "uFebruary 8, u1949", "name": "Niels Arestrup", "sex": "Actor"}
+{"id": "nm0478750", "born": "uJuly 7, u1970", "name": "Robia LaMorte", "sex": "Actress"}
+{"id": "nm3663347", "born": "", "name": "Russell Ferguson", "sex": "Actor"}
+{"id": "nm0330198", "born": "uFebruary 20, u1906", "name": "Gale Gordon", "sex": "Actor"}
+{"id": "nm0125511", "born": "uJune 7, u1969", "name": "Adam Buxton", "sex": "Actor"}
+{"id": "nm0730191", "born": "uAugust 23, u1947", "name": "David Robb", "sex": "Actor"}
+{"id": "nm0299275", "born": "uJuly 25, u1965", "name": "Fuschia!", "sex": "Actress"}
+{"id": "nm2843037", "born": "uDecember 12, u1991", "name": "Alexandra Stamler", "sex": "Actress"}
+{"id": "nm0278125", "born": "uSeptember 30, u1952", "name": "John Finn", "sex": "Actor"}
+{"id": "nm0040038", "born": "uDecember 29, u1972", "name": "Barry Atsma", "sex": "Actor"}
+{"id": "nm1386659", "born": "uMay 28, u1985", "name": "[u\"Emily Roya O'Brien\"]", "sex": "Actress"}
+{"id": "nm0154763", "born": "uJune 2, u1942", "name": "Maree Cheatham", "sex": "Actress"}
+{"id": "nm0848414", "born": "uApril 22, u1950", "name": "Lee Tamahori", "sex": "Actor"}
+{"id": "nm0785277", "born": "uJuly 23, u1944", "name": "Pepe Serna", "sex": "Actor"}
+{"id": "nm0996134", "born": "", "name": "Paula Pell", "sex": "Actress"}
+{"id": "nm0498609", "born": "uApril 6, u1916", "name": "Phil Leeds", "sex": "Actor"}
+{"id": "nm0132685", "born": "uMarch 12, u1959", "name": "Luenell", "sex": "Actress"}
+{"id": "nm3450022", "born": "uApril 9, u2000", "name": "Jackie Evancho", "sex": "Actress"}
+{"id": "nm0194230", "born": "uJanuary 13, u1932", "name": "Jon Cypher", "sex": "Actor"}
+{"id": "nm0614916", "born": "uJuly 31, u1929", "name": "Don Murray", "sex": "Actor"}
+{"id": "nm1388270", "born": "uMay 20, u1965", "name": "Ted Allen", "sex": "Actor"}
+{"id": "nm0230306", "born": "uMay 17, u1978", "name": "Neal Dodson", "sex": "Actor"}
+{"id": "nm2341751", "born": "uApril 16, u1981", "name": "Russell Harvard", "sex": "Actor"}
+{"id": "nm3847199", "born": "uDecember 3, u1975", "name": "Danielle Colby-Cushman", "sex": "Actor"}
+{"id": "nm0642801", "born": "uMay 7, u1944", "name": "[u\"Richard O'Sullivan\"]", "sex": "Actor"}
+{"id": "nm0845941", "born": "uDecember 30, u1979", "name": "Catherine Taber", "sex": "Actress"}
+{"id": "nm0628877", "born": "uAugust 11, u1967", "name": "Collin Chou", "sex": "Actor"}
+{"id": "nm2358430", "born": "uSeptember 18, u1984", "name": "Jack Carpenter", "sex": "Actor"}
+{"id": "nm0080220", "born": "uFebruary 24, u1963", "name": "Sanjay Leela Bhansali", "sex": "Actor"}
+{"id": "nm0923560", "born": "uSeptember 28, u1962", "name": "Suzanne Whang", "sex": "Actress"}
+{"id": "nm2766221", "born": "u1982", "name": "James Gilbert", "sex": "Actor"}
+{"id": "nm4692308", "born": "", "name": "Samuel Davis", "sex": "Actor"}
+{"id": "nm0366946", "born": "uDecember 23, u1943", "name": "Elizabeth Hartman", "sex": "Actress"}
+{"id": "nm3059064", "born": "uMay 7, u1985", "name": "Scheana Marie", "sex": "Actress"}
+{"id": "nm5746224", "born": "", "name": "Elise Vargas", "sex": "Actress"}
+{"id": "nm0878597", "born": "uDecember 22, u1971", "name": "Deborah Twiss", "sex": "Actress"}
+{"id": "nm0905973", "born": "uJuly 1, u1977", "name": "Kathy Wagner", "sex": "Actress"}
+{"id": "nm0842421", "born": "uDecember 29, u1932", "name": "Inga Swenson", "sex": "Actress"}
+{"id": "nm0002034", "born": "uOctober 15, u1879", "name": "Jane Darwell", "sex": "Actress"}
+{"id": "nm0128135", "born": "uAugust 12, u1953", "name": "Selina Cadell", "sex": "Actress"}
+{"id": "nm0030021", "born": "uFebruary 25, u1971", "name": "Christien Anholt", "sex": "Actor"}
+{"id": "nm0133936", "born": "uSeptember 3, u1924", "name": "Mary Grace Canfield", "sex": "Actress"}
+{"id": "nm0034334", "born": "uOctober 14, u1943", "name": "Lois Hamilton", "sex": "Actress"}
+{"id": "nm5330595", "born": "", "name": "Lindsey Lamer", "sex": "Actress"}
+{"id": "nm1715231", "born": "uJune 20, u1988", "name": "Shefali Chowdhury", "sex": "Actress"}
+{"id": "nm0440459", "born": "uSeptember 30, u1979", "name": "Jon Kasdan", "sex": "Actor"}
+{"id": "nm2069734", "born": "uOctober 8, u1996", "name": "Kylee Russell", "sex": "Actress"}
+{"id": "nm0821048", "born": "uNovember 21, u1956", "name": "Timothy Stack", "sex": "Actor"}
+{"id": "nm0484929", "born": "uMarch 17, u1957", "name": "Laurene Landon", "sex": "Actress"}
+{"id": "nm1187181", "born": "uDecember 24, u1976", "name": "Lynn Chen", "sex": "Actress"}
+{"id": "nm1481133", "born": "uSeptember 4, u1995", "name": "Trevor Gagnon", "sex": "Actor"}
+{"id": "nm0223499", "born": "u1977", "name": "Ayesha Dharker", "sex": "Actress"}
+{"id": "nm0134647", "born": "uDecember 9, u1959", "name": "Mario Cantone", "sex": "Actor"}
+{"id": "nm2781723", "born": "", "name": "Jessica Cameron", "sex": "Actress"}
+{"id": "nm0785805", "born": "uApril 11, u1979", "name": "Josh Server", "sex": "Actor"}
+{"id": "nm0242226", "born": "", "name": "Christine Dunford", "sex": "Actress"}
+{"id": "nm0526749", "born": "uMarch 4, u1966", "name": "Daniela Amavia", "sex": "Actress"}
+{"id": "nm0189720", "born": "uMarch 19, u1947", "name": "Dermot Crowley", "sex": "Actor"}
+{"id": "nm0001124", "born": "uAugust 12, u1881", "name": "Cecil B. DeMille", "sex": "Actor"}
+{"id": "nm0123102", "born": "uOctober 3, u1973", "name": "Hedy Burress", "sex": "Actress"}
+{"id": "nm0871636", "born": "uJune 7, u1953", "name": "Robert Trebor", "sex": "Actor"}
+{"id": "nm0696430", "born": "uNovember 13, u1932", "name": "J.A. Preston", "sex": "Actor"}
+{"id": "nm0140943", "born": "u1974", "name": "Nancy Carroll", "sex": "Actress"}
+{"id": "nm1708815", "born": "", "name": "Lucie Guest", "sex": "Actress"}
+{"id": "nm4336636", "born": "", "name": "[u\"Dermot O'Neill\"]", "sex": "Actor"}
+{"id": "nm0756929", "born": "uOctober 26, u1946", "name": "Pat Sajak", "sex": "Actor"}
+{"id": "nm0404158", "born": "uApril 5, u1883", "name": "Walter Huston", "sex": "Actor"}
+{"id": "nm0138384", "born": "uAugust 4, u1930", "name": "Jeanne Carmen", "sex": "Actress"}
+{"id": "nm0034791", "born": "uApril 8, u1979", "name": "Jacqueline Pinol", "sex": "Actress"}
+{"id": "nm0622897", "born": "u1955", "name": "Guillermo Navarro", "sex": "Actor"}
+{"id": "nm0462661", "born": "uSeptember 6, u1970", "name": "Barbora Kodetov\\xe1", "sex": "Actress"}
+{"id": "nm0508742", "born": "", "name": "Brian Libby", "sex": "Actor"}
+{"id": "nm0800328", "born": "uOctober 13, u1941", "name": "Paul Simon", "sex": "Actor"}
+{"id": "nm1675002", "born": "uMarch 29, u1997", "name": "Nicholas Elia", "sex": "Actor"}
+{"id": "nm0531932", "born": "uOctober 6, u1970", "name": "Shauna MacDonald", "sex": "Actress"}
+{"id": "nm4050123", "born": "", "name": "Alex Frnka", "sex": "Actress"}
+{"id": "nm0001300", "born": "uFebruary 8, u1955", "name": "John Grisham", "sex": "Actor"}
+{"id": "nm0341587", "born": "uApril 16, u1985", "name": "Rhiana Griffith", "sex": "Actress"}
+{"id": "nm0235103", "born": "", "name": "Jason Douglas", "sex": "Actor"}
+{"id": "nm0797531", "born": "uMarch 25, u1921", "name": "Simone Signoret", "sex": "Actress"}
+{"id": "nm0103071", "born": "uNovember 10, u1934", "name": "Richard Bradford", "sex": "Actor"}
+{"id": "nm6428049", "born": "", "name": "Tamara Pullman", "sex": "Actor"}
+{"id": "nm0015359", "born": "uAugust 25, u1973", "name": "Fatih Akin", "sex": "Actor"}
+{"id": "nm1959866", "born": "", "name": "Brad Johnson", "sex": "Actor"}
+{"id": "nm0262026", "born": "uDecember 5, u1969", "name": "Eric Etebari", "sex": "Actor"}
+{"id": "nm2894248", "born": "", "name": "Susan Bridges", "sex": "Actress"}
+{"id": "nm2119781", "born": "uNovember 13, u1977", "name": "Xiaoming Huang", "sex": "Actor"}
+{"id": "nm0094789", "born": "uMay 31, u1967", "name": "Sandrine Bonnaire", "sex": "Actress"}
+{"id": "nm1580890", "born": "", "name": "Annabelle Attanasio", "sex": "Actress"}
+{"id": "nm0726457", "born": "uMarch 5, u1969", "name": "Rena Riffel", "sex": "Actress"}
+{"id": "nm0038664", "born": "uJuly 17, u1950", "name": "Sasha Czack", "sex": "Actress"}
+{"id": "nm0654197", "born": "uApril 14, u1966", "name": "Lloyd Owen", "sex": "Actor"}
+{"id": "nm0010208", "born": "uAugust 7", "name": "Julian Acosta", "sex": "Actor"}
+{"id": "nm4876328", "born": "", "name": "Alison Rich", "sex": "Actress"}
+{"id": "nm0007092", "born": "", "name": "Matthew G. Taylor", "sex": "Actor"}
+{"id": "nm0842934", "born": "uJune 27, u1961", "name": "Meera Syal", "sex": "Actress"}
+{"id": "nm0407067", "born": "uDecember 4, u1965", "name": "\\xc1lex de la Iglesia", "sex": "Actor"}
+{"id": "nm4511269", "born": "uApril 30, u1991", "name": "Lindsay Pearce", "sex": "Actress"}
+{"id": "nm4789062", "born": "", "name": "Lucius Hoyos", "sex": "Actor"}
+{"id": "nm0772259", "born": "uFebruary 16, u1926", "name": "John Schlesinger", "sex": "Actor"}
+{"id": "nm1560464", "born": "", "name": "Mercy Malick", "sex": "Actress"}
+{"id": "nm0409831", "born": "uNovember 16, u1972", "name": "Michael Irby", "sex": "Actor"}
+{"id": "nm1922619", "born": "", "name": "Jhey Castles", "sex": "Actress"}
+{"id": "nm1178424", "born": "", "name": "Kyle Dunnigan", "sex": "Actor"}
+{"id": "nm2205243", "born": "", "name": "Jeremy Bobb", "sex": "Actor"}
+{"id": "nm8106184", "born": "", "name": "Winnie Harlow", "sex": "Actress"}
+{"id": "nm0005455", "born": "uApril 22, u1923", "name": "Aaron Spelling", "sex": "Actor"}
+{"id": "nm0539395", "born": "uSeptember 24, u1927", "name": "Arthur Malet", "sex": "Actor"}
+{"id": "nm0345340", "born": "uDecember 23, u1925", "name": "Harry Guardino", "sex": "Actor"}
+{"id": "nm0180920", "born": "uNovember 13, u1930", "name": "Adrienne Corri", "sex": "Actress"}
+{"id": "nm0916179", "born": "", "name": "Kim Webb", "sex": "Actress"}
+{"id": "nm4761135", "born": "", "name": "Sophia Grace Brownlee", "sex": "Actress"}
+{"id": "nm5182908", "born": "uMay 25, u1994", "name": "Aly Raisman", "sex": "Actor"}
+{"id": "nm0741675", "born": "uFebruary 8, u1969", "name": "Shiva Rose", "sex": "Actress"}
+{"id": "nm1218053", "born": "uJanuary 4, u1984", "name": "Robin Sydney", "sex": "Actress"}
+{"id": "nm0046424", "born": "uJanuary 24, u1978", "name": "Veerle Baetens", "sex": "Actress"}
+{"id": "nm0005271", "born": "uNovember 28, u1943", "name": "Randy Newman", "sex": "Actor"}
+{"id": "nm0355755", "born": "uFebruary 23, u1915", "name": "Jon Hall", "sex": "Actor"}
+{"id": "nm1951655", "born": "", "name": "Amanda Fields", "sex": "Actress"}
+{"id": "nm0877203", "born": "uNovember 25, u1967", "name": "Gregg Turkington", "sex": "Actor"}
+{"id": "nm0038695", "born": "uJanuary 30, u1963", "name": "Daphne Ashbrook", "sex": "Actress"}
+{"id": "nm1470197", "born": "", "name": "Justin Lee", "sex": "Actor"}
+{"id": "nm5486964", "born": "uSeptember 17, u1993", "name": "Crystal Leaity", "sex": "Actress"}
+{"id": "nm6186975", "born": "", "name": "Will Meyers", "sex": "Actor"}
+{"id": "nm0067785", "born": "uJanuary 14, u1949", "name": "Christine Belford", "sex": "Actress"}
+{"id": "nm0450130", "born": "uNovember 6, u1960", "name": "Lance Kerwin", "sex": "Actor"}
+{"id": "nm0134493", "born": "uApril 12, u1992", "name": "Giorgio Cantarini", "sex": "Actor"}
+{"id": "nm0006473", "born": "uSeptember 20, u1982", "name": "Daniella Evangelista", "sex": "Actress"}
+{"id": "nm0401522", "born": "uApril 1, u1971", "name": "Lachy Hulme", "sex": "Actor"}
+{"id": "nm1195175", "born": "", "name": "Jai Koutrae", "sex": "Actor"}
+{"id": "nm0815970", "born": "", "name": "Jeannette Sousa", "sex": "Actress"}
+{"id": "nm0950515", "born": "", "name": "Kelvin Yu", "sex": "Actor"}
+{"id": "nm0484916", "born": "uAugust 29, u1983", "name": "Jennifer Landon", "sex": "Actress"}
+{"id": "nm0719738", "born": "uJune 19, u1966", "name": "Kelly Reno", "sex": "Actor"}
+{"id": "nm1275101", "born": "", "name": "Shannon Chan-Kent", "sex": "Actress"}
+{"id": "nm0401936", "born": "uDecember 27, u1960", "name": "Mark Humphrey", "sex": "Actor"}
+{"id": "nm0870199", "born": "", "name": "Stanley Townsend", "sex": "Actor"}
+{"id": "nm7749647", "born": "", "name": "Jamie Soricelli", "sex": "Actress"}
+{"id": "nm0657848", "born": "uJanuary 25, u1944", "name": "Anita Pallenberg", "sex": "Actress"}
+{"id": "nm0899513", "born": "uSeptember 20, u1968", "name": "Michelle Visage", "sex": "Actress"}
+{"id": "nm1814260", "born": "uJanuary 26, u1990", "name": "Christopher Massey", "sex": "Actor"}
+{"id": "nm0887599", "born": "uApril 11, u1953", "name": "Amy Van Nostrand", "sex": "Actress"}
+{"id": "nm0147392", "born": "uDecember 17, u1943", "name": "Christopher Cazenove", "sex": "Actor"}
+{"id": "nm0368561", "born": "uApril 18, u1925", "name": "Bob Hastings", "sex": "Actor"}
+{"id": "nm0051257", "born": "uSeptember 14, u1959", "name": "Kirk Baltz", "sex": "Actor"}
+{"id": "nm0206760", "born": "uJuly 7, u1957", "name": "Jonathan Dayton", "sex": "Actor"}
+{"id": "nm0515134", "born": "uNovember 9, u1966", "name": "Lori Lively", "sex": "Actress"}
+{"id": "nm0221554", "born": "uSeptember 2, u1950", "name": "Rosanna DeSoto", "sex": "Actress"}
+{"id": "nm2546388", "born": "", "name": "Coley Campany", "sex": "Actress"}
+{"id": "nm0674742", "born": "uJuly 13, u1941", "name": "Jacques Perrin", "sex": "Actor"}
+{"id": "nm5393985", "born": "", "name": "Chloe Hurst", "sex": "Actress"}
+{"id": "nm4324730", "born": "", "name": "Bill Hartley", "sex": "Actor"}
+{"id": "nm0002083", "born": "uApril 11, u1949", "name": "Carl Franklin", "sex": "Actor"}
+{"id": "nm0877399", "born": "uJuly 14, u1936", "name": "Barbara Turner", "sex": "Actress"}
+{"id": "nm3025400", "born": "uSeptember 23, u1985", "name": "Shawn C. Phillips", "sex": "Actor"}
+{"id": "nm0381154", "born": "uJuly 11, u1909", "name": "Irene Hervey", "sex": "Actress"}
+{"id": "nm0179680", "born": "uApril 2, u1950", "name": "Allan Corduner", "sex": "Actor"}
+{"id": "nm0801535", "born": "uJanuary 10, u1944", "name": "Frank Sinatra Jr.", "sex": "Actor"}
+{"id": "nm2590648", "born": "uAugust 16, u1985", "name": "Hope Olaide Wilson", "sex": "Actress"}
+{"id": "nm0887227", "born": "uOctober 4, u1971", "name": "Hoyte Van Hoytema", "sex": "Actor"}
+{"id": "nm6261556", "born": "", "name": "Chelsea Durkalec", "sex": "Actress"}
+{"id": "nm0000839", "born": "uNovember 12, u1937", "name": "Ina Balin", "sex": "Actress"}
+{"id": "nm3157887", "born": "", "name": "Tavi Gevinson", "sex": "Actress"}
+{"id": "nm0641365", "born": "uMay 6, u1952", "name": "[u\"Michael O'Hare\"]", "sex": "Actor"}
+{"id": "nm1833884", "born": "uJune 20, u1997", "name": "Maria Lark", "sex": "Actress"}
+{"id": "nm3406379", "born": "uFebruary 1, u2004", "name": "Ashley Gerasimovich", "sex": "Actress"}
+{"id": "nm1190376", "born": "uMay 9, u1974", "name": "Anthony Molinari", "sex": "Actor"}
+{"id": "nm6343162", "born": "", "name": "Marsai Martin", "sex": "Actress"}
+{"id": "nm1212331", "born": "uAugust 4, u1965", "name": "Dennis Lehane", "sex": "Actor"}
+{"id": "nm0002031", "born": "uDecember 24, u1886", "name": "Michael Curtiz", "sex": "Actor"}
+{"id": "nm0138637", "born": "uApril 27, u1939", "name": "Judy Carne", "sex": "Actress"}
+{"id": "nm6282956", "born": "", "name": "E.J. Johnson", "sex": "Actor"}
+{"id": "nm0411980", "born": "uSeptember 6, u1968", "name": "Mark Ivanir", "sex": "Actor"}
+{"id": "nm1528548", "born": "uNovember 3, u1969", "name": "Rhashan Stone", "sex": "Actor"}
+{"id": "nm0712562", "born": "", "name": "Raad Rawi", "sex": "Actor"}
+{"id": "nm0277975", "born": "uAugust 6, u1926", "name": "Frank Finlay", "sex": "Actor"}
+{"id": "nm0146264", "born": "uJuly 21, u1943", "name": "Michael Caton", "sex": "Actor"}
+{"id": "nm6354997", "born": "uDecember 26, u1994", "name": "Georgia Hirst", "sex": "Actress"}
+{"id": "nm0048468", "born": "uApril 1, u1931", "name": "George Baker", "sex": "Actor"}
+{"id": "nm0807351", "born": "uNovember 27, u1983", "name": "Arjay Smith", "sex": "Actor"}
+{"id": "nm5357907", "born": "uOctober 15, u1992", "name": "Larissa Albuquerque", "sex": "Actress"}
+{"id": "nm0667350", "born": "uMay 29, u1978", "name": "Jay Paulson", "sex": "Actor"}
+{"id": "nm2141152", "born": "uJanuary 21, u1994", "name": "Marny Kennedy", "sex": "Actress"}
+{"id": "nm2010266", "born": "uJanuary 23, u1979", "name": "[u\"Dawn O'Porter\"]", "sex": "Actress"}
+{"id": "nm2356851", "born": "u1989", "name": "Jordan Patrick Smith", "sex": "Actor"}
+{"id": "nm0331770", "born": "uMarch 15, u1924", "name": "Walter Gotell", "sex": "Actor"}
+{"id": "nm1373920", "born": "uJuly 16, u1980", "name": "[u\"Chris 'C.T.' Tamburello\"]", "sex": "Actor"}
+{"id": "nm1171145", "born": "uAugust 26, u1977", "name": "Patrick Kennedy", "sex": "Actor"}
+{"id": "nm0146061", "born": "uJanuary 14, u1975", "name": "Georgina Cates", "sex": "Actress"}
+{"id": "nm4224109", "born": "", "name": "Maya Erskine", "sex": "Actress"}
+{"id": "nm0339745", "born": "uMay 26, u1978", "name": "Benji Gregory", "sex": "Actor"}
+{"id": "nm0004954", "born": "uJune 14, u1961", "name": "Boy George", "sex": "Actor"}
+{"id": "nm1707083", "born": "uMay 30, u1990", "name": "Dean Collins", "sex": "Actor"}
+{"id": "nm7599759", "born": "", "name": "Natalie Halcro", "sex": "Actress"}
+{"id": "nm0002051", "born": "uFebruary 10, u1893", "name": "Jimmy Durante", "sex": "Actor"}
+{"id": "nm1703244", "born": "", "name": "Simona Fusco", "sex": "Actress"}
+{"id": "nm3204288", "born": "", "name": "Karen Pittman", "sex": "Actress"}
+{"id": "nm3918199", "born": "", "name": "Christopher Douglas Reed", "sex": "Actor"}
+{"id": "nm1073676", "born": "", "name": "Michele Specht", "sex": "Actress"}
+{"id": "nm0494058", "born": "uMarch 21, u1958", "name": "Sabrina Le Beauf", "sex": "Actress"}
+{"id": "nm0779507", "born": "uSeptember 29, u1922", "name": "Lizabeth Scott", "sex": "Actress"}
+{"id": "nm3485724", "born": "uDecember 27, u1988", "name": "Tory Taranova", "sex": "Actress"}
+{"id": "nm1207852", "born": "", "name": "Casper Zafer", "sex": "Actor"}
+{"id": "nm0232196", "born": "uMarch 18, u1905", "name": "Robert Donat", "sex": "Actor"}
+{"id": "nm2828257", "born": "", "name": "Luca Oriel", "sex": "Actor"}
+{"id": "nm2959299", "born": "uSeptember 22, u1981", "name": "Jules Knight", "sex": "Actor"}
+{"id": "nm0740718", "born": "uOctober 23, u1910", "name": "Hayden Rorke", "sex": "Actor"}
+{"id": "nm6843400", "born": "", "name": "Eve Lindley", "sex": "Actress"}
+{"id": "nm6370727", "born": "", "name": "Heather Byrne", "sex": "Actress"}
+{"id": "nm1128766", "born": "", "name": "Mary Stockley", "sex": "Actress"}
+{"id": "nm1821051", "born": "uJune 10, u1983", "name": "Shanna Collins", "sex": "Actress"}
+{"id": "nm0743768", "born": "uApril 16, u1960", "name": "Ricco Ross", "sex": "Actor"}
+{"id": "nm6048343", "born": "", "name": "James DiGiacomo", "sex": "Actor"}
+{"id": "nm0925578", "born": "", "name": "Welker White", "sex": "Actress"}
+{"id": "nm1594832", "born": "uJanuary 19, u1982", "name": "Denise Boutte", "sex": "Actress"}
+{"id": "nm0715529", "born": "uOctober 13, u1971", "name": "Kira Reed Lorsch", "sex": "Actress"}
+{"id": "nm1334507", "born": "uJuly 30, u1969", "name": "Donnie Keshawarz", "sex": "Actor"}
+{"id": "nm0427484", "born": "", "name": "Angela Jones", "sex": "Actress"}
+{"id": "nm0640539", "born": "uJuly 3, u1927", "name": "[u\"Tim O'Connor\"]", "sex": "Actor"}
+{"id": "nm4181314", "born": "", "name": "Eva Bella", "sex": "Actress"}
+{"id": "nm2727714", "born": "", "name": "Deniz Akdeniz", "sex": "Actor"}
+{"id": "nm0640356", "born": "uApril 7, u1962", "name": "[u\"Hugh O'Connor\"]", "sex": "Actor"}
+{"id": "nm0873743", "born": "uMarch 25, u1920", "name": "Patrick Troughton", "sex": "Actor"}
+{"id": "nm0002340", "born": "uAugust 11, u1947", "name": "Stuart Gordon", "sex": "Actor"}
+{"id": "nm1127337", "born": "", "name": "Tami Sagher", "sex": "Actor"}
+{"id": "nm0126311", "born": "uJuly 31, u1987", "name": "Brittany Byrnes", "sex": "Actress"}
+{"id": "nm3272620", "born": "uOctober 3, u1984", "name": "Meagan Holder", "sex": "Actress"}
+{"id": "nm0740168", "born": "uJuly 15, u1946", "name": "Linda Ronstadt", "sex": "Actress"}
+{"id": "nm0522327", "born": "", "name": "Gary Love", "sex": "Actor"}
+{"id": "nm0688143", "born": "uSeptember 22, u1964", "name": "Beno\\xeet Poelvoorde", "sex": "Actor"}
+{"id": "nm0255362", "born": "uApril 19, u1971", "name": "Gad Elmaleh", "sex": "Actor"}
+{"id": "nm0168892", "born": "uMay 1, u1964", "name": "Scott Coffey", "sex": "Actor"}
+{"id": "nm1372721", "born": "", "name": "Matthew Alan", "sex": "Actor"}
+{"id": "nm0006981", "born": "uJuly 8, u1959", "name": "David Elliott", "sex": "Actor"}
+{"id": "nm0303902", "born": "", "name": "Damon Gameau", "sex": "Actor"}
+{"id": "nm2607858", "born": "", "name": "Ben Esler", "sex": "Actor"}
+{"id": "nm0255365", "born": "uJanuary 23, u1974", "name": "Rebekah Elmaloglou", "sex": "Actress"}
+{"id": "nm0788767", "born": "", "name": "John Sharian", "sex": "Actor"}
+{"id": "nm0248698", "born": "uFebruary 14, u1955", "name": "James Eckhouse", "sex": "Actor"}
+{"id": "nm2524113", "born": "", "name": "Jack Hickey", "sex": "Actor"}
+{"id": "nm2132129", "born": "uOctober 8, u1983", "name": "Casey Messer", "sex": "Actress"}
+{"id": "nm2811073", "born": "uJanuary 26, u1984", "name": "Jacob Blair", "sex": "Actor"}
+{"id": "nm2772701", "born": "", "name": "Bill Heck", "sex": "Actor"}
+{"id": "nm0572268", "born": "", "name": "Coby Ryan McLaughlin", "sex": "Actor"}
+{"id": "nm1661329", "born": "", "name": "Rorelee Tio", "sex": "Actress"}
+{"id": "nm1957978", "born": "uApril 18, u1987", "name": "Ellen Woglom", "sex": "Actress"}
+{"id": "nm0233352", "born": "uJuly 28, u1911", "name": "Ann Doran", "sex": "Actress"}
+{"id": "nm2339680", "born": "uDecember 8, u1980", "name": "Nick Nevern", "sex": "Actor"}
+{"id": "nm2893183", "born": "", "name": "Jenn Murray", "sex": "Actress"}
+{"id": "nm0384876", "born": "", "name": "Colette Hiller", "sex": "Actress"}
+{"id": "nm1102988", "born": "uJune 17, u1980", "name": "Venus Williams", "sex": "Actor"}
+{"id": "nm1391444", "born": "", "name": "Anna Rust", "sex": "Actress"}
+{"id": "nm2191570", "born": "u1981", "name": "Zoe Ventoura", "sex": "Actress"}
+{"id": "nm3914891", "born": "", "name": "Max Aria", "sex": "Actor"}
+{"id": "nm1706832", "born": "", "name": "Christopher Denham", "sex": "Actor"}
+{"id": "nm4049910", "born": "uDecember 4, u1989", "name": "Nafessa Williams", "sex": "Actress"}
+{"id": "nm3350137", "born": "", "name": "Michelle DeFraites", "sex": "Actress"}
+{"id": "nm6866984", "born": "", "name": "James Melville", "sex": "Actor"}
+{"id": "nm0462809", "born": "uAugust 17, u1968", "name": "Andrew Koenig", "sex": "Actor"}
+{"id": "nm0596807", "born": "uOctober 5, u1955", "name": "\\xc1ngela Molina", "sex": "Actress"}
+{"id": "nm0399783", "born": "uOctober 17, u1949", "name": "Bill Hudson", "sex": "Actor"}
+{"id": "nm2631090", "born": "", "name": "Jadin Gould", "sex": "Actress"}
+{"id": "nm0313882", "born": "uMarch 26, u1962", "name": "Marita Geraghty", "sex": "Actress"}
+{"id": "nm7635825", "born": "", "name": "Anniston Price", "sex": "Actress"}
+{"id": "nm0394248", "born": "uMay 13, u1977", "name": "Neil Hopkins", "sex": "Actor"}
+{"id": "nm2001061", "born": "uJuly 3, u1977", "name": "Shawn Parsons", "sex": "Actor"}
+{"id": "nm7286852", "born": "", "name": "Lele Pons", "sex": "Actress"}
+{"id": "nm0639774", "born": "uMarch 25, u1960", "name": "[u\"Peter O'Brien\"]", "sex": "Actor"}
+{"id": "nm2377612", "born": "uFebruary 19, u1992", "name": "Kaili Thorne", "sex": "Actress"}
+{"id": "nm5435984", "born": "", "name": "Jourdan Dunn", "sex": "Actress"}
+{"id": "nm0704351", "born": "uJuly 8, u1959", "name": "Pauline Quirke", "sex": "Actress"}
+{"id": "nm1709128", "born": "uMarch 10, u1978", "name": "Marta Torn\\xe9", "sex": "Actress"}
+{"id": "nm3340017", "born": "", "name": "Brianna Goldie", "sex": "Actress"}
+{"id": "nm0881490", "born": "u1966", "name": "Andrew Upton", "sex": "Actor"}
+{"id": "nm0283409", "born": "uAugust 5, u1948", "name": "Barbara Flynn", "sex": "Actress"}
+{"id": "nm1557594", "born": "", "name": "Dan Fogelman", "sex": "Actor"}
+{"id": "nm2685937", "born": "uApril 12, u1977", "name": "Ruth Vega Fernandez", "sex": "Actress"}
+{"id": "nm0179148", "born": "uAugust 17, u1933", "name": "Glenn Corbett", "sex": "Actor"}
+{"id": "nm2255271", "born": "uJuly 25, u1989", "name": "Andrew Caldwell", "sex": "Actor"}
+{"id": "nm2732114", "born": "uSeptember 28, u2000", "name": "Frankie Jonas", "sex": "Actor"}
+{"id": "nm2459787", "born": "uMay 21, u1999", "name": "Brighid Fleming", "sex": "Actress"}
+{"id": "nm0492908", "born": "uFebruary 17, u1910", "name": "Marc Lawrence", "sex": "Actor"}
+{"id": "nm2534167", "born": "u1977", "name": "Tom Vaughan-Lawlor", "sex": "Actor"}
+{"id": "nm1750369", "born": "", "name": "Betsy Beutler", "sex": "Actress"}
+{"id": "nm0484808", "born": "uJanuary 1, u1919", "name": "Carole Landis", "sex": "Actress"}
+{"id": "nm1442933", "born": "", "name": "Paul Thornley", "sex": "Actor"}
+{"id": "nm6367070", "born": "", "name": "Rachel Bernard", "sex": "Actress"}
+{"id": "nm0365988", "born": "", "name": "Jamie Harrold", "sex": "Actor"}
+{"id": "nm0381681", "born": "", "name": "Marcus Hester", "sex": "Actor"}
+{"id": "nm0059228", "born": "uJuly 19, u1956", "name": "Peter Barton", "sex": "Actor"}
+{"id": "nm0609477", "born": "uFebruary 10, u1958", "name": "Bess Motta", "sex": "Actress"}
+{"id": "nm1556238", "born": "u1984", "name": "Samuel Anderson", "sex": "Actor"}
+{"id": "nm1437776", "born": "uFebruary 16, u1978", "name": "John Tartaglia", "sex": "Actor"}
+{"id": "nm0342249", "born": "uMay 9, u1984", "name": "Tinsley Grimes", "sex": "Actress"}
+{"id": "nm4477006", "born": "", "name": "Liam Knight", "sex": "Actor"}
+{"id": "nm2095375", "born": "uOctober 8, u1975", "name": "Richard Short", "sex": "Actor"}
+{"id": "nm2259835", "born": "uJune 25, u1979", "name": "Brandi Burkhardt", "sex": "Actress"}
+{"id": "nm2453033", "born": "", "name": "Hannah Kasulka", "sex": "Actress"}
+{"id": "nm0646792", "born": "uMarch 3, u1972", "name": "Christian Oliver", "sex": "Actor"}
+{"id": "nm0491768", "born": "uMarch 23, u1978", "name": "Perez Hilton", "sex": "Actor"}
+{"id": "nm0394889", "born": "uFebruary 28, u1987", "name": "Michelle Horn", "sex": "Actress"}
+{"id": "nm3980050", "born": "", "name": "Kimberly-Sue Murray", "sex": "Actress"}
+{"id": "nm0592558", "born": "", "name": "Elyse Mirto", "sex": "Actress"}
+{"id": "nm1056790", "born": "", "name": "Nicholas Aaron", "sex": "Actor"}
+{"id": "nm0122798", "born": "uDecember 30, u1947", "name": "Michael Burns", "sex": "Actor"}
+{"id": "nm7056012", "born": "", "name": "Kate Phillips", "sex": "Actress"}
+{"id": "nm0593850", "born": "uSeptember 6, u1919", "name": "John Mitchum", "sex": "Actor"}
+{"id": "nm0002956", "born": "uSeptember 1, u1946", "name": "Barry Gibb", "sex": "Actor"}
+{"id": "nm3255797", "born": "", "name": "Dean Fleischer-Camp", "sex": "Actor"}
+{"id": "nm0400261", "born": "uFebruary 2, u1965", "name": "Cady Huffman", "sex": "Actress"}
+{"id": "nm3180176", "born": "", "name": "Andre Hall", "sex": "Actor"}
+{"id": "nm0302438", "born": "uDecember 11, u1967", "name": "Mary Gallagher", "sex": "Actress"}
+{"id": "nm1237235", "born": "uJune 20, u1977", "name": "Ronnie Gene Blevins", "sex": "Actor"}
+{"id": "nm0751080", "born": "uMay 9, u1958", "name": "Chuck Russell", "sex": "Actor"}
+{"id": "nm0875613", "born": "uFebruary 13, u1963", "name": "Barry Tubb", "sex": "Actor"}
+{"id": "nm0667738", "born": "uAugust 11, u1970", "name": "Teresa Pavlinek", "sex": "Actress"}
+{"id": "nm0419054", "born": "uAugust 25, u1930", "name": "Graham Jarvis", "sex": "Actor"}
+{"id": "nm0172577", "born": "", "name": "Nicola Collins", "sex": "Actress"}
+{"id": "nm0809953", "born": "uNovember 16, u1967", "name": "Sheree Fletcher", "sex": "Actress"}
+{"id": "nm0130286", "born": "uNovember 22, u1935", "name": "Michael Callan", "sex": "Actor"}
+{"id": "nm0640744", "born": "uNovember 20, u1974", "name": "[u\"David O'Donnell\"]", "sex": "Actor"}
+{"id": "nm3332017", "born": "uAugust 13, u1986", "name": "Ashley Spillers", "sex": "Actress"}
+{"id": "nm0579460", "born": "uNovember 8, u1971", "name": "Gonzalo Menendez", "sex": "Actor"}
+{"id": "nm1017348", "born": "u1969", "name": "Lauren Weedman", "sex": "Actress"}
+{"id": "nm0375606", "born": "uSeptember 12, u1938", "name": "Anne Helm", "sex": "Actress"}
+{"id": "nm3092471", "born": "uJanuary 16, u1983", "name": "Marwan Kenzari", "sex": "Actor"}
+{"id": "nm0915536", "born": "uJanuary 30, u1914", "name": "David Wayne", "sex": "Actor"}
+{"id": "nm0647288", "born": "uMay 14, u1948", "name": "Walter Olkewicz", "sex": "Actor"}
+{"id": "nm0751245", "born": "uJanuary 3, u1921", "name": "John Russell", "sex": "Actor"}
+{"id": "nm0073137", "born": "uJanuary 20, u1950", "name": "Daniel Benzali", "sex": "Actor"}
+{"id": "nm1587813", "born": "uDecember 17, u1975", "name": "Steve Zissis", "sex": "Actor"}
+{"id": "nm0949723", "born": "uMarch 23, u1951", "name": "John William Young", "sex": "Actor"}
+{"id": "nm5120200", "born": "", "name": "Austin Fryberger", "sex": "Actor"}
+{"id": "nm2159995", "born": "", "name": "Michael D. Cohen", "sex": "Actor"}
+{"id": "nm5073618", "born": "", "name": "Abby Ross", "sex": "Actress"}
+{"id": "nm6243766", "born": "", "name": "Ethan Andrew Casto", "sex": "Actor"}
+{"id": "nm0204322", "born": "uJuly 11, u1964", "name": "Cassi Davis", "sex": "Actress"}
+{"id": "nm0948757", "born": "uAugust 7, u1971", "name": "Rachel York", "sex": "Actress"}
+{"id": "nm0136441", "born": "", "name": "Kate Rogal", "sex": "Actress"}
+{"id": "nm0707816", "born": "uOctober 9, u1964", "name": "John Ralston", "sex": "Actor"}
+{"id": "nm0329094", "born": "uApril 23, u1950", "name": "Henry Goodman", "sex": "Actor"}
+{"id": "nm0094636", "born": "", "name": "Michelle Bonilla", "sex": "Actress"}
+{"id": "nm1169306", "born": "uDecember 7, u1969", "name": "[u\"Patrice O'Neal\"]", "sex": "Actor"}
+{"id": "nm0935719", "born": "uJune 3, u1937", "name": "Edward Winter", "sex": "Actor"}
+{"id": "nm0853576", "born": "uJanuary 12, u1902", "name": "Ray Teal", "sex": "Actor"}
+{"id": "nm0310370", "born": "uOctober 31, u1931", "name": "Richard Gautier", "sex": "Actor"}
+{"id": "nm0001898", "born": "uNovember 5, u1959", "name": "Bryan Adams", "sex": "Actor"}
+{"id": "nm0295141", "born": "", "name": "Andrea F. Friedman", "sex": "Actress"}
+{"id": "nm2068185", "born": "", "name": "Priscilla C. Shirer", "sex": "Actress"}
+{"id": "nm0614101", "born": "uMarch 6, u1942", "name": "Ben Murphy", "sex": "Actor"}
+{"id": "nm3158820", "born": "", "name": "Rachael Holmes", "sex": "Actress"}
+{"id": "nm0998183", "born": "uApril 3, u2000", "name": "Ella Bleu Travolta", "sex": "Actress"}
+{"id": "nm0129883", "born": "uDecember 3, u1939", "name": "Don Calfa", "sex": "Actor"}
+{"id": "nm0358026", "born": "uApril 25, u1930", "name": "Lynn Hamilton", "sex": "Actress"}
+{"id": "nm0007115", "born": "", "name": "Amy Hathaway", "sex": "Actress"}
+{"id": "nm0005440", "born": "uFebruary 11, u1972", "name": "Kelly Slater", "sex": "Actor"}
+{"id": "nm0444169", "born": "uJuly 20, u1947", "name": "Camille Keaton", "sex": "Actress"}
+{"id": "nm0066023", "born": "uJanuary 2, u1956", "name": "John Bedford Lloyd", "sex": "Actor"}
+{"id": "nm1601644", "born": "", "name": "Jennifer Lee", "sex": "Actor"}
+{"id": "nm0578483", "born": "uOctober 20, u1917", "name": "Jean-Pierre Melville", "sex": "Actor"}
+{"id": "nm0910559", "born": "uOctober 24, u1968", "name": "Mark Walton", "sex": "Actor"}
+{"id": "nm0575168", "born": "", "name": "Angela Means", "sex": "Actress"}
+{"id": "nm1893735", "born": "uNovember 12, u1983", "name": "Kate Bell", "sex": "Actress"}
+{"id": "nm0828838", "born": "uNovember 2, u1919", "name": "Warren Stevens", "sex": "Actor"}
+{"id": "nm5398351", "born": "", "name": "Romy Weltman", "sex": "Actress"}
+{"id": "nm0212695", "born": "", "name": "Allison Dean", "sex": "Actress"}
+{"id": "nm0712947", "born": "uAugust 7, u1911", "name": "Nicholas Ray", "sex": "Actor"}
+{"id": "nm0319779", "born": "", "name": "Jennifer Gimenez", "sex": "Actress"}
+{"id": "nm1405359", "born": "uJanuary 13, u1983", "name": "Imran Khan", "sex": "Actor"}
+{"id": "nm3089615", "born": "", "name": "Jenna Saras", "sex": "Actress"}
+{"id": "nm0791186", "born": "uAugust 16, u1939", "name": "Carole Shelley", "sex": "Actress"}
+{"id": "nm0817275", "born": "uNovember 8, u1958", "name": "Jeff Speakman", "sex": "Actor"}
+{"id": "nm0011470", "born": "uDecember 1, u1966", "name": "Andrew Adamson", "sex": "Actor"}
+{"id": "nm0751406", "born": "uAugust 2, u1965", "name": "Regina Russell Banali", "sex": "Actress"}
+{"id": "nm0131773", "born": "uJune 12, u1963", "name": "Patrice Martinez", "sex": "Actress"}
+{"id": "nm0811027", "born": "uAugust 20, u1966", "name": "David Rees Snell", "sex": "Actor"}
+{"id": "nm1787834", "born": "u1976", "name": "Kym Johnson", "sex": "Actress"}
+{"id": "nm0686029", "born": "uOctober 10, u1962", "name": "Tony Pitts", "sex": "Actor"}
+{"id": "nm0169218", "born": "", "name": "Ari Cohen", "sex": "Actor"}
+{"id": "nm1728514", "born": "", "name": "Cara Horgan", "sex": "Actress"}
+{"id": "nm0368002", "born": "u1966", "name": "William Haze", "sex": "Actor"}
+{"id": "nm1165846", "born": "uJanuary 1, u1982", "name": "Jody Latham", "sex": "Actor"}
+{"id": "nm0266684", "born": "uJuly 18, u1938", "name": "Hampton Fancher", "sex": "Actor"}
+{"id": "nm3932421", "born": "", "name": "Devan Cohen", "sex": "Actor"}
+{"id": "nm1011439", "born": "uJune 4, u1986", "name": "Shane Kippel", "sex": "Actor"}
+{"id": "nm1027678", "born": "uSeptember 1, u1981", "name": "Michael Adamthwaite", "sex": "Actor"}
+{"id": "nm0079894", "born": "uSeptember 20, u1973", "name": "Brad Beyer", "sex": "Actor"}
+{"id": "nm5249562", "born": "", "name": "Pooja Hegde", "sex": "Actress"}
+{"id": "nm1410276", "born": "uAugust 16, u1978", "name": "Josh Casaubon", "sex": "Actor"}
+{"id": "nm0001934", "born": "uJanuary 16, u1946", "name": "Kabir Bedi", "sex": "Actor"}
+{"id": "nm0184083", "born": "", "name": "Charlie Cousins", "sex": "Actor"}
+{"id": "nm1466049", "born": "uDecember 26, u1970", "name": "Graham Shiels", "sex": "Actor"}
+{"id": "nm0822582", "born": "uNovember 22, u1966", "name": "Richard Stanley", "sex": "Actor"}
+{"id": "nm3024530", "born": "", "name": "Reda Kateb", "sex": "Actor"}
+{"id": "nm4688539", "born": "", "name": "Jaclyn Betham", "sex": "Actress"}
+{"id": "nm0004872", "born": "uDecember 31, u1962", "name": "Don Diamont", "sex": "Actor"}
+{"id": "nm0908890", "born": "uSeptember 6, u1949", "name": "Tommy Lee Wallace", "sex": "Actor"}
+{"id": "nm1543212", "born": "", "name": "Amy Ferguson", "sex": "Actress"}
+{"id": "nm2755723", "born": "", "name": "Brian Jordan Alvarez", "sex": "Actor"}
+{"id": "nm1708824", "born": "uMarch 10, u1983", "name": "Khadijah", "sex": "Actress"}
+{"id": "nm0569144", "born": "uJanuary 14, u1945", "name": "Vonetta McGee", "sex": "Actress"}
+{"id": "nm2628722", "born": "uJuly 22, u1990", "name": "Camila Banus", "sex": "Actress"}
+{"id": "nm0270546", "born": "", "name": "Halley Feiffer", "sex": "Actress"}
+{"id": "nm0897358", "born": "uNovember 23, u1948", "name": "Bruce Vilanch", "sex": "Actor"}
+{"id": "nm1689615", "born": "uNovember 5, u1979", "name": "Romi Dames", "sex": "Actress"}
+{"id": "nm0386246", "born": "uNovember 20, u1962", "name": "Rajkumar Hirani", "sex": "Actor"}
+{"id": "nm5648200", "born": "", "name": "Lil Bub", "sex": "Actress"}
+{"id": "nm0291349", "born": "uMarch 25, u1942", "name": "Aretha Franklin", "sex": "Actress"}
+{"id": "nm0598569", "born": "uOctober 30, u1972", "name": "Steve Monroe", "sex": "Actor"}
+{"id": "nm1361499", "born": "", "name": "Adam McArthur", "sex": "Actor"}
+{"id": "nm0711595", "born": "uAugust 6, u1965", "name": "Jeremy Ratchford", "sex": "Actor"}
+{"id": "nm0301839", "born": "uAugust 23, u1963", "name": "Ed Gale", "sex": "Actor"}
+{"id": "nm0004871", "born": "uJanuary 24, u1941", "name": "Neil Diamond", "sex": "Actor"}
+{"id": "nm0287825", "born": "uNovember 15, u1933", "name": "Gloria Foster", "sex": "Actress"}
+{"id": "nm0252135", "born": "uDecember 24, u1970", "name": "Breck Eisner", "sex": "Actor"}
+{"id": "nm0169540", "born": "uJuly 15, u1941", "name": "Larry Cohen", "sex": "Actor"}
+{"id": "nm0552072", "born": "uJanuary 17, u1975", "name": "Chris William Martin", "sex": "Actor"}
+{"id": "nm0007941", "born": "uOctober 2, u1895", "name": "Bud Abbott", "sex": "Actor"}
+{"id": "nm3606487", "born": "uApril 28, u1987", "name": "Samantha Ruth Prabhu", "sex": "Actress"}
+{"id": "nm2493723", "born": "uSeptember 13, u1987", "name": "Carol Anne Watts", "sex": "Actress"}
+{"id": "nm1276562", "born": "uAugust 27, u1986", "name": "Mario", "sex": "Actor"}
+{"id": "nm0819725", "born": "uJuly 29, u1959", "name": "Gary Springer", "sex": "Actor"}
+{"id": "nm0106319", "born": "uDecember 22, u1953", "name": "Jay Brazeau", "sex": "Actor"}
+{"id": "nm3169872", "born": "uNovember 28, u1981", "name": "Jacqui Ainsley", "sex": "Actress"}
+{"id": "nm0333318", "born": "uMay 12, u1962", "name": "April Grace", "sex": "Actress"}
+{"id": "nm1130728", "born": "uJuly 6, u1982", "name": "Misty Upham", "sex": "Actress"}
+{"id": "nm0907107", "born": "uSeptember 25, u1943", "name": "Robert Walden", "sex": "Actor"}
+{"id": "nm1280538", "born": "uNovember 10, u1980", "name": "Matt Mullins", "sex": "Actor"}
+{"id": "nm0958520", "born": "uJune 3, u1974", "name": "Arianne Zucker", "sex": "Actress"}
+{"id": "nm1103162", "born": "uMarch 13, u1970", "name": "Tim Story", "sex": "Actor"}
+{"id": "nm0176586", "born": "uMay 22, u1938", "name": "Frank Converse", "sex": "Actor"}
+{"id": "nm0456810", "born": "uApril 14, u1973", "name": "Langley Kirkwood", "sex": "Actor"}
+{"id": "nm0452385", "born": "uJanuary 29, u1979", "name": "Vinzenz Kiefer", "sex": "Actor"}
+{"id": "nm0449984", "born": "uApril 29, u1923", "name": "Irvin Kershner", "sex": "Actor"}
+{"id": "nm0280521", "born": "uFebruary 1, u1967", "name": "Gabrielle Fitzpatrick", "sex": "Actress"}
+{"id": "nm2674307", "born": "", "name": "Patrick Brice", "sex": "Actor"}
+{"id": "nm0415488", "born": "uMarch 10, u1891", "name": "Sam Jaffe", "sex": "Actor"}
+{"id": "nm0116885", "born": "uFebruary 13, u1951", "name": "Ellen Bry", "sex": "Actress"}
+{"id": "nm0864096", "born": "uNovember 21, u1947", "name": "Tiny Ron", "sex": "Actor"}
+{"id": "nm0930323", "born": "uMay 31, u1987", "name": "Curtis Williams", "sex": "Actor"}
+{"id": "nm1724255", "born": "uJuly 30, u1984", "name": "Gabrielle Christian", "sex": "Actress"}
+{"id": "nm2861180", "born": "uSeptember 18, u1985", "name": "Chris Riggi", "sex": "Actor"}
+{"id": "nm0666593", "born": "uFebruary 13, u1964", "name": "Mark Patton", "sex": "Actor"}
+{"id": "nm0484829", "born": "uNovember 25, u1896", "name": "Jessie Royce Landis", "sex": "Actress"}
+{"id": "nm0589900", "born": "", "name": "Angela Elayne Gibbs", "sex": "Actress"}
+{"id": "nm0927727", "born": "uJanuary 23, u1982", "name": "Geoffrey Wigdor", "sex": "Actor"}
+{"id": "nm0199961", "born": "uAugust 24, u1980", "name": "J.D. Daniels", "sex": "Actor"}
+{"id": "nm6845634", "born": "", "name": "[u\"Christopher O'Shea\"]", "sex": "Actor"}
+{"id": "nm0795344", "born": "uApril 27, u1942", "name": "John Shrapnel", "sex": "Actor"}
+{"id": "nm0207218", "born": "uAugust 12, u1957", "name": "Isaach De Bankol\\xe9", "sex": "Actor"}
+{"id": "nm0750826", "born": "uApril 14, u1924", "name": "Joseph Ruskin", "sex": "Actor"}
+{"id": "nm0150926", "born": "", "name": "Jacqueline Chan", "sex": "Actress"}
+{"id": "nm0125546", "born": "", "name": "Anne Douglas", "sex": "Actress"}
+{"id": "nm0001214", "born": "uFebruary 28, u1948", "name": "Mike Figgis", "sex": "Actor"}
+{"id": "nm0074036", "born": "uMarch 8, u1964", "name": "Bob Bergen", "sex": "Actor"}
+{"id": "nm0005542", "born": "uFebruary 23, u1965", "name": "Veronica Webb", "sex": "Actress"}
+{"id": "nm0000918", "born": "uMay 29, u1944", "name": "Helmut Berger", "sex": "Actor"}
+{"id": "nm6080909", "born": "", "name": "Jenna Saab", "sex": "Actress"}
+{"id": "nm1193346", "born": "u1970", "name": "Sean Ellis", "sex": "Actor"}
+{"id": "nm0766120", "born": "uNovember 14, u1980", "name": "Brooke Satchwell", "sex": "Actress"}
+{"id": "nm1036787", "born": "uAugust 16, u1976", "name": "Kinga Philipps", "sex": "Actress"}
+{"id": "nm0278248", "born": "u1970", "name": "Dan Finnerty", "sex": "Actor"}
+{"id": "nm1649128", "born": "", "name": "Ben Wilkinson", "sex": "Actor"}
+{"id": "nm0031246", "born": "uFebruary 2, u1947", "name": "Greg Antonacci", "sex": "Actor"}
+{"id": "nm2369966", "born": "uJune 26, u1988", "name": "Katie Cockrell", "sex": "Actress"}
+{"id": "nm0185123", "born": "uMarch 6, u1978", "name": "Lara Cox", "sex": "Actress"}
+{"id": "nm2554097", "born": "", "name": "Christiane Seidel", "sex": "Actress"}
+{"id": "nm1480430", "born": "uAugust 21, u1981", "name": "Erin Kelly", "sex": "Actress"}
+{"id": "nm3444384", "born": "", "name": "Alisa Allapach", "sex": "Actress"}
+{"id": "nm0642078", "born": "uMarch 11, u1945", "name": "[u\"Tricia O'Neil\"]", "sex": "Actress"}
+{"id": "nm1162030", "born": "uJanuary 11, u1982", "name": "Ye-jin Son", "sex": "Actress"}
+{"id": "nm0793634", "born": "uJuly 31, u1943", "name": "Sab Shimono", "sex": "Actor"}
+{"id": "nm0413996", "born": "uJuly 13, u1958", "name": "Roger Jackson", "sex": "Actor"}
+{"id": "nm1571761", "born": "uJune 23, u1977", "name": "Sian Heder", "sex": "Actress"}
+{"id": "nm3083352", "born": "", "name": "Alexia Rasmussen", "sex": "Actress"}
+{"id": "nm0001912", "born": "uJuly 30, u1941", "name": "Paul Anka", "sex": "Actor"}
+{"id": "nm0387706", "born": "uNovember 27, u1944", "name": "Gregory Hoblit", "sex": "Actor"}
+{"id": "nm2601498", "born": "", "name": "Aynsley Bubbico", "sex": "Actress"}
+{"id": "nm1458584", "born": "uJuly 9, u1980", "name": "Jessa French", "sex": "Actress"}
+{"id": "nm0689168", "born": "uOctober 7, u1974", "name": "Alexander Polinsky", "sex": "Actor"}
+{"id": "nm0780948", "born": "uApril 8, u1951", "name": "Joan Sebastian", "sex": "Actor"}
+{"id": "nm0300096", "born": "uJune 5, u1945", "name": "June Gable", "sex": "Actress"}
+{"id": "nm4435266", "born": "", "name": "Jane McNeill", "sex": "Actress"}
+{"id": "nm0498271", "born": "u1966", "name": "Sook-Yin Lee", "sex": "Actress"}
+{"id": "nm4668046", "born": "", "name": "Sayani Gupta", "sex": "Actress"}
+{"id": "nm5809539", "born": "", "name": "Twenty One Pilots", "sex": "Actor"}
+{"id": "nm0837959", "born": "uAugust 29, u1912", "name": "Barry Sullivan", "sex": "Actor"}
+{"id": "nm0401091", "born": "uFebruary 10, u1960", "name": "Marceline Hugot", "sex": "Actress"}
+{"id": "nm2261451", "born": "uFebruary 28, u1979", "name": "Michael Bisping", "sex": "Actor"}
+{"id": "nm0291266", "born": "uMay 27, u1932", "name": "Steve Franken", "sex": "Actor"}
+{"id": "nm0320758", "born": "uAugust 9, u1938", "name": "Mich\\xe8le Girardon", "sex": "Actress"}
+{"id": "nm7509185", "born": "", "name": "Sebastian Croft", "sex": "Actor"}
+{"id": "nm1644336", "born": "", "name": "Sabine Crossen", "sex": "Actress"}
+{"id": "nm0002021", "born": "uDecember 16, u1899", "name": "No\\xebl Coward", "sex": "Actor"}
+{"id": "nm1067053", "born": "uJune 28, u1959", "name": "Christopher Doohan", "sex": "Actor"}
+{"id": "nm1733525", "born": "", "name": "Anwan Glover", "sex": "Actor"}
+{"id": "nm0539439", "born": "uJune 8, u1926", "name": "Peggy Maley", "sex": "Actress"}
+{"id": "nm1720134", "born": "uOctober 17, u1980", "name": "Angel Parker", "sex": "Actress"}
+{"id": "nm4231366", "born": "", "name": "Chester Rushing", "sex": "Actor"}
+{"id": "nm0150976", "born": "uDecember 28, u1917", "name": "Kim Chan", "sex": "Actor"}
+{"id": "nm0891514", "born": "uApril 15, u1962", "name": "Alex Veadov", "sex": "Actor"}
+{"id": "nm0674012", "born": "uMay 12, u1938", "name": "Millie Perkins", "sex": "Actress"}
+{"id": "nm1792091", "born": "uJuly 9, u1981", "name": "Dylan Taylor", "sex": "Actor"}
+{"id": "nm4045867", "born": "uOctober 25, u1995", "name": "Garrett Backstrom", "sex": "Actor"}
+{"id": "nm0005127", "born": "uJanuary 6, u1970", "name": "Greg Lauren", "sex": "Actor"}
+{"id": "nm0421670", "born": "", "name": "Sarah Jayne Jensen", "sex": "Actress"}
+{"id": "nm0911395", "born": "", "name": "Barry Ward", "sex": "Actor"}
+{"id": "nm0004795", "born": "uOctober 30, u1982", "name": "Jessica Campbell", "sex": "Actress"}
+{"id": "nm0196971", "born": "uSeptember 15, u1977", "name": "Sophie Dahl", "sex": "Actress"}
+{"id": "nm3591245", "born": "", "name": "Dylan Edwards", "sex": "Actor"}
+{"id": "nm0000912", "born": "uFebruary 14, u1894", "name": "Jack Benny", "sex": "Actor"}
+{"id": "nm3162943", "born": "uMay 22, u1985", "name": "Chris Salvatore", "sex": "Actor"}
+{"id": "nm1676793", "born": "uJanuary 23, u1973", "name": "Mark Boal", "sex": "Actor"}
+{"id": "nm0429886", "born": "uApril 12, u1973", "name": "Claudia Jordan", "sex": "Actress"}
+{"id": "nm0853808", "born": "uOctober 26, u1953", "name": "Maureen Teefy", "sex": "Actress"}
+{"id": "nm4985969", "born": "", "name": "Ray Diaz", "sex": "Actor"}
+{"id": "nm0821094", "born": "", "name": "Michelle Stacy", "sex": "Actress"}
+{"id": "nm0522550", "born": "uDecember 9, u1974", "name": "Jacqueline Lovell", "sex": "Actress"}
+{"id": "nm4053303", "born": "uNovember 29, u1988", "name": "Briana Cuoco", "sex": "Actress"}
+{"id": "nm0006890", "born": "uJanuary 21, u1922", "name": "Paul Scofield", "sex": "Actor"}
+{"id": "nm3085284", "born": "", "name": "Jay Jackson", "sex": "Actor"}
+{"id": "nm0006249", "born": "uMay 2, u1921", "name": "Satyajit Ray", "sex": "Actor"}
+{"id": "nm1743031", "born": "uSeptember 19, u1986", "name": "Mandy Musgrave", "sex": "Actress"}
+{"id": "nm0435770", "born": "", "name": "Kymberly Kalil", "sex": "Actress"}
+{"id": "nm1071303", "born": "uFebruary 13, u1977", "name": "Ian Reed Kesler", "sex": "Actor"}
+{"id": "nm6399766", "born": "", "name": "Jackie Dallas", "sex": "Actress"}
+{"id": "nm0733263", "born": "uMay 26, u1978", "name": "Adam Robitel", "sex": "Actor"}
+{"id": "nm1732299", "born": "", "name": "Tony Watt", "sex": "Actor"}
+{"id": "nm0111274", "born": "uMarch 6, u1970", "name": "Shane Brolly", "sex": "Actor"}
+{"id": "nm2336615", "born": "", "name": "Zachary Vazquez", "sex": "Actor"}
+{"id": "nm1067507", "born": "uDecember 11, u1968", "name": "Rebecca Grant", "sex": "Actress"}
+{"id": "nm0419633", "born": "u1948", "name": "Ricky Jay", "sex": "Actor"}
+{"id": "nm0498503", "born": "", "name": "Barbara Lee-Belmonte", "sex": "Actress"}
+{"id": "nm1617292", "born": "", "name": "Jeff Teravainen", "sex": "Actor"}
+{"id": "nm0005021", "born": "uFebruary 1, u1964", "name": "Kaitlin Hopkins", "sex": "Actress"}
+{"id": "nm1531996", "born": "uDecember 9, u1973", "name": "Nicole Randall Johnson", "sex": "Actress"}
+{"id": "nm1248979", "born": "", "name": "David Richmond-Peck", "sex": "Actor"}
+{"id": "nm0575050", "born": "uApril 13, u1933", "name": "Joyce Meadows", "sex": "Actress"}
+{"id": "nm7956036", "born": "", "name": "Matthew Espinosa", "sex": "Actor"}
+{"id": "nm0552086", "born": "uJuly 10, u1962", "name": "Christopher Martin", "sex": "Actor"}
+{"id": "nm0397258", "born": "", "name": "Duane Howard", "sex": "Actor"}
+{"id": "nm0005196", "born": "uApril 25, u1930", "name": "Paul Mazursky", "sex": "Actor"}
+{"id": "nm0712141", "born": "", "name": "Nina Rausch", "sex": "Actress"}
+{"id": "nm4912595", "born": "", "name": "Fran\\xe7ois-Henri Pinault", "sex": "Actor"}
+{"id": "nm0694173", "born": "uSeptember 18, u1963", "name": "John Powell", "sex": "Actor"}
+{"id": "nm5358125", "born": "", "name": "Louriza Tronco", "sex": "Actress"}
+{"id": "nm3694593", "born": "", "name": "Emilia Ares Zoryan", "sex": "Actress"}
+{"id": "nm2520301", "born": "u1997", "name": "Ahmad Khan Mahmoodzada", "sex": "Actor"}
+{"id": "nm4047315", "born": "", "name": "Cissy Jones", "sex": "Actress"}
+{"id": "nm0706883", "born": "uNovember 16, u1945", "name": "Steve Railsback", "sex": "Actor"}
+{"id": "nm0822694", "born": "uAugust 27, u1964", "name": "Claire Stansfield", "sex": "Actress"}
+{"id": "nm0186576", "born": "uJanuary 11, u1912", "name": "Nick Cravat", "sex": "Actor"}
+{"id": "nm0428216", "born": "uAugust 1, u1912", "name": "Henry Jones", "sex": "Actor"}
+{"id": "nm6909148", "born": "", "name": "Curran Walters", "sex": "Actor"}
+{"id": "nm1995781", "born": "", "name": "Adam Shapiro", "sex": "Actor"}
+{"id": "nm0671375", "born": "uFebruary 26, u1970", "name": "Meeno Peluce", "sex": "Actor"}
+{"id": "nm1081097", "born": "uFebruary 21, u1980", "name": "Elize du Toit", "sex": "Actress"}
+{"id": "nm0120055", "born": "uJanuary 20, u1964", "name": "Francesca Buller", "sex": "Actress"}
+{"id": "nm4362492", "born": "", "name": "Diljit Dosanjh", "sex": "Actor"}
+{"id": "nm2043855", "born": "", "name": "Bryan Safi", "sex": "Actor"}
+{"id": "nm0006522", "born": "u1957", "name": "Haydn Gwynne", "sex": "Actress"}
+{"id": "nm0426678", "born": "uOctober 22, u1968", "name": "Jay Johnston", "sex": "Actor"}
+{"id": "nm1190373", "born": "uDecember 22, u1991", "name": "Ashton Moio", "sex": "Actor"}
+{"id": "nm0330070", "born": "uApril 20, u1967", "name": "Lara Jill Miller", "sex": "Actress"}
+{"id": "nm0237666", "born": "uAugust 18, u1968", "name": "Griffin Drew", "sex": "Actress"}
+{"id": "nm0751946", "born": "uNovember 2, u1917", "name": "Ann Rutherford", "sex": "Actress"}
+{"id": "nm0060845", "born": "uAugust 6, u1925", "name": "Barbara Bates", "sex": "Actress"}
+{"id": "nm0309650", "born": "", "name": "Yusuf Gatewood", "sex": "Actor"}
+{"id": "nm0627639", "born": "uFebruary 19, u1990", "name": "Luke Newberry", "sex": "Actor"}
+{"id": "nm0602813", "born": "u1963", "name": "Rob Moran", "sex": "Actor"}
+{"id": "nm0640055", "born": "", "name": "[u\"Deirdre O'Connell\"]", "sex": "Actress"}
+{"id": "nm7862639", "born": "", "name": "Liza Koshy", "sex": "Actress"}
+{"id": "nm0336489", "born": "uSeptember 7, u1936", "name": "Bruce Gray", "sex": "Actor"}
+{"id": "nm0706296", "born": "uJanuary 27, u1942", "name": "Stewart Raffill", "sex": "Actor"}
+{"id": "nm0411569", "born": "uApril 26, u1979", "name": "Kl\\xe1ra Issov\\xe1", "sex": "Actress"}
+{"id": "nm7306710", "born": "", "name": "Alexia Giordano", "sex": "Actress"}
+{"id": "nm3878243", "born": "", "name": "Jessi Mechler", "sex": "Actress"}
+{"id": "nm0366983", "born": "uJanuary 11, u1952", "name": "Kim Hartman", "sex": "Actress"}
+{"id": "nm1287928", "born": "", "name": "Amy Matysio", "sex": "Actress"}
+{"id": "nm6981795", "born": "", "name": "Samantha Marie Ware", "sex": "Actress"}
+{"id": "nm1266413", "born": "", "name": "Lauren Maher", "sex": "Actress"}
+{"id": "nm0392228", "born": "", "name": "Karen Holness", "sex": "Actress"}
+{"id": "nm0658297", "born": "uMarch 6, u1986", "name": "Joel Palmer", "sex": "Actor"}
+{"id": "nm0506699", "born": "uSeptember 6, u1952", "name": "James Lew", "sex": "Actor"}
+{"id": "nm3100538", "born": "uJuly 11, u1985", "name": "Nitya Vidyasagar", "sex": "Actress"}
+{"id": "nm5845148", "born": "", "name": "Sir Maejor", "sex": "Actor"}
+{"id": "nm0000278", "born": "uFebruary 13, u1958", "name": "Pernilla August", "sex": "Actress"}
+{"id": "nm0296583", "born": "uJune 5, u1925", "name": "Warren Frost", "sex": "Actor"}
+{"id": "nm0282435", "born": "uMarch 6, u1899", "name": "Jay C. Flippen", "sex": "Actor"}
+{"id": "nm1217506", "born": "uNovember 12, u1984", "name": "Omarion Grandberry", "sex": "Actor"}
+{"id": "nm0725102", "born": "", "name": "Grady Lee Richmond", "sex": "Actor"}
+{"id": "nm0120116", "born": "uFebruary 16, u1945", "name": "Jeremy Bulloch", "sex": "Actor"}
+{"id": "nm0298780", "born": "uMay 20, u1963", "name": "Jenny Funnell", "sex": "Actress"}
+{"id": "nm0186683", "born": "uMay 13, u1944", "name": "Robert Crawford Jr.", "sex": "Actor"}
+{"id": "nm0702798", "born": "uDecember 8, u1899", "name": "John Qualen", "sex": "Actor"}
+{"id": "nm1559194", "born": "", "name": "Louis Ozawa Changchien", "sex": "Actor"}
+{"id": "nm1968493", "born": "u1982", "name": "Lara Gilchrist", "sex": "Actress"}
+{"id": "nm2070606", "born": "uJanuary 8, u1979", "name": "Windell Middlebrooks", "sex": "Actor"}
+{"id": "nm0353448", "born": "uMay 21, u1938", "name": "Ross Hagen", "sex": "Actor"}
+{"id": "nm0403937", "born": "uMarch 1, u1977", "name": "Adam Huss", "sex": "Actor"}
+{"id": "nm6788760", "born": "", "name": "Everett Moss", "sex": "Actor"}
+{"id": "nm0202638", "born": "uMay 23, u1928", "name": "Nigel Davenport", "sex": "Actor"}
+{"id": "nm0499614", "born": "uMay 2, u1965", "name": "Ari Lehman", "sex": "Actor"}
+{"id": "nm5304426", "born": "", "name": "Poppy Corby-Tuech", "sex": "Actress"}
+{"id": "nm0619938", "born": "uDecember 13, u1932", "name": "Tatsuya Nakadai", "sex": "Actor"}
+{"id": "nm0005934", "born": "uMarch 10, u1951", "name": "Robert D. Yeoman", "sex": "Actor"}
+{"id": "nm0112390", "born": "", "name": "Anthony Brophy", "sex": "Actor"}
+{"id": "nm0927382", "born": "uOctober 29, u1970", "name": "Christopher Wiehl", "sex": "Actor"}
+{"id": "nm0750706", "born": "uSeptember 20, u1955", "name": "Sarah Rush", "sex": "Actress"}
+{"id": "nm5417212", "born": "", "name": "Jemma Donovan", "sex": "Actress"}
+{"id": "nm3603996", "born": "", "name": "Jack Bright", "sex": "Actor"}
+{"id": "nm2963850", "born": "u1979", "name": "Nico Evers-Swindell", "sex": "Actor"}
+{"id": "nm0618651", "born": "uJuly 2, u1961", "name": "Samy Naceri", "sex": "Actor"}
+{"id": "nm0413125", "born": "uJanuary 21, u1938", "name": "Wolfman Jack", "sex": "Actor"}
+{"id": "nm0719692", "born": "uAugust 25, u1909", "name": "Michael Rennie", "sex": "Actor"}
+{"id": "nm0382968", "born": "uSeptember 21, u1974", "name": "Taral Hicks", "sex": "Actress"}
+{"id": "nm0393812", "born": "uNovember 4, u1972", "name": "Wendy Hoopes", "sex": "Actress"}
+{"id": "nm0580526", "born": "uMarch 10, u1938", "name": "Micole Mercurio", "sex": "Actress"}
+{"id": "nm1477802", "born": "", "name": "Backstreet Boys", "sex": "Actor"}
+{"id": "nm0057412", "born": "uApril 18, u1912", "name": "Wendy Barrie", "sex": "Actress"}
+{"id": "nm0828594", "born": "uDecember 13, u1916", "name": "Mark Stevens", "sex": "Actor"}
+{"id": "nm0004870", "born": "uJuly 7, u1965", "name": "Paula Devicq", "sex": "Actress"}
+{"id": "nm3493581", "born": "", "name": "Alora Catherine Smith", "sex": "Actress"}
+{"id": "nm2583369", "born": "", "name": "Jessica Meraz", "sex": "Actress"}
+{"id": "nm0141501", "born": "uDecember 18, u1970", "name": "Bridie Carter", "sex": "Actress"}
+{"id": "nm0905998", "born": "uAugust 14, u1948", "name": "Lou Wagner", "sex": "Actor"}
+{"id": "nm0141027", "born": "uJanuary 21, u1941", "name": "Victoria Carroll", "sex": "Actress"}
+{"id": "nm4173210", "born": "", "name": "Sebastian Naskrent", "sex": "Actor"}
+{"id": "nm0504720", "born": "uMarch 9, u1970", "name": "Shannon Leto", "sex": "Actor"}
+{"id": "nm1281229", "born": "uMay 10, u1977", "name": "Hugo Silva", "sex": "Actor"}
+{"id": "nm0542558", "born": "uJuly 5, u1948", "name": "Blu Mankuma", "sex": "Actor"}
+{"id": "nm0455394", "born": "uMay 23, u1942", "name": "Zalman King", "sex": "Actor"}
+{"id": "nm0272252", "born": "", "name": "Peter Ferdinando", "sex": "Actor"}
+{"id": "nm3824412", "born": "", "name": "Quinn McColgan", "sex": "Actress"}
+{"id": "nm0761190", "born": "uMarch 5, u1935", "name": "Paul Sand", "sex": "Actor"}
+{"id": "nm0284158", "born": "uFebruary 20, u1983", "name": "Jeremy Foley", "sex": "Actor"}
+{"id": "nm0777435", "born": "uMarch 16", "name": "Scott L. Schwartz", "sex": "Actor"}
+{"id": "nm0188614", "born": "uAugust 21, u1971", "name": "Greg Cromer", "sex": "Actor"}
+{"id": "nm0588222", "born": "uNovember 3, u1953", "name": "Dennis Miller", "sex": "Actor"}
+{"id": "nm1360099", "born": "uAugust 5, u1980", "name": "Kaylani Lei", "sex": "Actress"}
+{"id": "nm0454306", "born": "", "name": "Andy Kindler", "sex": "Actor"}
+{"id": "nm0552385", "born": "uJuly 23, u1909", "name": "Helen Martin", "sex": "Actress"}
+{"id": "nm0383926", "born": "uJanuary 24, u1978", "name": "Mark Hildreth", "sex": "Actor"}
+{"id": "nm5207662", "born": "", "name": "Kati Salowsky", "sex": "Actress"}
+{"id": "nm0752539", "born": "uNovember 29, u1916", "name": "Fran Ryan", "sex": "Actress"}
+{"id": "nm1862960", "born": "", "name": "Chris Jackson", "sex": "Actor"}
+{"id": "nm6968810", "born": "", "name": "Halima Nagori", "sex": "Actress"}
+{"id": "nm1890845", "born": "", "name": "Sean Anders", "sex": "Actor"}
+{"id": "nm0186315", "born": "uFebruary 26, u1976", "name": "Brandon Crane", "sex": "Actor"}
+{"id": "nm1023919", "born": "uMarch 20, u1975", "name": "Ramin Bahrani", "sex": "Actor"}
+{"id": "nm0959062", "born": "uMay 18, u1949", "name": "Terry Zwigoff", "sex": "Actor"}
+{"id": "nm1002695", "born": "uJune 29, u1991", "name": "Soren Fulton", "sex": "Actor"}
+{"id": "nm0258523", "born": "", "name": "Peter Epstein", "sex": "Actor"}
+{"id": "nm0229694", "born": "uJune 23, u1969", "name": "David Dobkin", "sex": "Actor"}
+{"id": "nm0138354", "born": "uSeptember 27, u1932", "name": "Roger C. Carmel", "sex": "Actor"}
+{"id": "nm6386497", "born": "", "name": "Ivy George", "sex": "Actress"}
+{"id": "nm0132637", "born": "uJune 5, u1962", "name": "Ken Hudson Campbell", "sex": "Actor"}
+{"id": "nm4313848", "born": "uJanuary 6, u2003", "name": "MattyB", "sex": "Actor"}
+{"id": "nm0693957", "born": "uAugust 9, u1971", "name": "Mark Povinelli", "sex": "Actor"}
+{"id": "nm0739087", "born": "uFebruary 8, u1943", "name": "Richard Romanus", "sex": "Actor"}
+{"id": "nm1251009", "born": "uOctober 16, u1975", "name": "Giada Colagrande", "sex": "Actress"}
+{"id": "nm0691837", "born": "uMay 29, u1965", "name": "Matthew Porretta", "sex": "Actor"}
+{"id": "nm5957931", "born": "", "name": "Duke Davis Roberts", "sex": "Actor"}

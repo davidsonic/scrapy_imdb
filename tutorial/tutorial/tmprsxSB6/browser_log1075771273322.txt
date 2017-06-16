@@ -1,0 +1,85 @@
+{"level":"INFO","message":"LOG addons.manager: Application has been upgraded\n","timestamp":1469512214080,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: startup\n","timestamp":1469512214080,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: checkForChanges\n","timestamp":1469512214080,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: Directory state JSON differs: cache [] state [{\"name\":\"app-system-share\",\"addons\":{\"ubufox@ubuntu.com\":{\"descriptor\":\"/usr/share/mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/ubufox@ubuntu.com.xpi\",\"mtime\":1442597111000}}},{\"name\":\"app-global\",\"addons\":{\"langpack-en-ZA@firefox.mozilla.org\":{\"descriptor\":\"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi\",\"mtime\":1465217056000},\"langpack-en-GB@firefox.mozilla.org\":{\"descriptor\":\"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi\",\"mtime\":1465217056000},\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\":{\"descriptor\":\"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"mtime\":1469434558000,\"rdfTime\":1397165556000}}},{\"name\":\"app-profile\",\"addons\":{\"fxdriver@googlecode.com\":{\"descriptor\":\"/data4/ylchen/tutorial/tutorial/tmprsxSB6/extensions/fxdriver@googlecode.com\",\"mtime\":1469512210000,\"rdfTime\":1469512210000}}}]\n","timestamp":1469512214080,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Opening XPI database /data4/ylchen/tutorial/tutorial/tmprsxSB6/extensions.json\n","timestamp":1469512214080,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: New add-on fxdriver@googlecode.com installed in app-profile\n","timestamp":1469512214081,"type":""}
+{"level":"INFO","message":"Blocklist::_loadBlocklistFromFile: blocklist is disabled\n","timestamp":1469512214081,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Make addon app-profile:fxdriver@googlecode.com visible\n","timestamp":1469512214081,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214081,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214081,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global\n","timestamp":1469512214081,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible\n","timestamp":1469512214082,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214082,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214082,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: New add-on langpack-en-GB@firefox.mozilla.org installed in app-global\n","timestamp":1469512214082,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Make addon app-global:langpack-en-GB@firefox.mozilla.org visible\n","timestamp":1469512214082,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214082,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214083,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global\n","timestamp":1469512214083,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible\n","timestamp":1469512214083,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214083,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214083,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: New add-on ubufox@ubuntu.com installed in app-system-share\n","timestamp":1469512214083,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Make addon app-system-share:ubufox@ubuntu.com visible\n","timestamp":1469512214084,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214084,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Save changes\n","timestamp":1469512214084,"type":""}
+{"level":"INFO","message":"LOG addons.xpi: Updating database with changes to installed add-ons\n","timestamp":1469512214084,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Updating add-on states\n","timestamp":1469512214084,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: Writing add-ons list\n","timestamp":1469512214084,"type":""}
+{"level":"WARNING","message":"Trying to re-register CID '{e26dbdcd-d3ba-4ded-88c3-6cb07ee3e9e0}' already registered by file:///data4/ylchen/tutorial/tutorial/tmprsxSB6/extensions/fxdriver@googlecode.com/components/prompt-service.js.","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"Could not read chrome manifest 'file:///usr/lib/firefox/browser/extensions/%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D/chrome.manifest'.\n","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"While creating services from category 'profile-after-change', could not create service for entry 'Disk Space Watcher Service', contract ID '@mozilla.org/toolkit/disk-space-watcher;1'\n","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"Warning: unrecognized command line flag -foreground\n","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Starting timer\n","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"DEPRECATION WARNING: PlacesBackups.getMostRecent is deprecated and will be removed in a future version\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=859695\nresource://gre/modules/PlacesBackups.jsm 194 PB_getMostRecent\nresource://app/components/nsBrowserGlue.js 1030 null\nresource://gre/modules/Task.jsm 233 TaskImpl_run\nresource://gre/modules/Task.jsm 182 TaskImpl\nresource://gre/modules/Task.jsm 152 Task_spawn\nresource://app/components/nsBrowserGlue.js 1135 BG__initPlaces\nresource://app/components/nsBrowserGlue.js 230 BG_observe\nnull 0 null\n","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"DEPRECATION WARNING: PlacesBackups.entries is deprecated and will be removed in a future version\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=859695\nresource://gre/modules/PlacesBackups.jsm 86 null\nresource://gre/modules/PlacesBackups.jsm 197 PB_getMostRecent\nresource://app/components/nsBrowserGlue.js 1030 null\nresource://gre/modules/Task.jsm 233 TaskImpl_run\nresource://gre/modules/Task.jsm 182 TaskImpl\nresource://gre/modules/Task.jsm 152 Task_spawn\nresource://app/components/nsBrowserGlue.js 1135 BG__initPlaces\nresource://app/components/nsBrowserGlue.js 230 BG_observe\nnull 0 null\n","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"DEPRECATION WARNING: PlacesBackups.folder is deprecated and will be removed in a future version\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=859695\nresource://gre/modules/PlacesBackups.jsm 42 null\nresource://gre/modules/PlacesBackups.jsm 90 null\nresource://gre/modules/PlacesBackups.jsm 197 PB_getMostRecent\nresource://app/components/nsBrowserGlue.js 1030 null\nresource://gre/modules/Task.jsm 233 TaskImpl_run\nresource://gre/modules/Task.jsm 182 TaskImpl\nresource://gre/modules/Task.jsm 152 Task_spawn\nresource://app/components/nsBrowserGlue.js 1135 BG__initPlaces\nresource://app/components/nsBrowserGlue.js 230 BG_observe\nnull 0 null\n","timestamp":1469512214085,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Starting write\n","timestamp":1469512214086,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/extensions.json: Write succeeded\n","timestamp":1469512214086,"type":""}
+{"level":"INFO","message":"LOG addons.xpi-utils: XPI Database saved, setting schema version preference to 15\n","timestamp":1469512214086,"type":""}
+{"level":"INFO","message":"LOG addons.repository: No addons.json found.\n","timestamp":1469512214225,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/addons.json: Save changes\n","timestamp":1469512214225,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/addons.json: Starting timer\n","timestamp":1469512214225,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/addons.json: Starting write\n","timestamp":1469512215672,"type":""}
+{"level":"INFO","message":"LOG DeferredSave/addons.json: Write succeeded\n","timestamp":1469512215674,"type":""}
+{"level":"WARNING","message":"Unknown property 'touch-action'.  Declaration dropped.","timestamp":1469512219366,"type":""}
+{"level":"WARNING","message":"Unknown property 'box-sizing'.  Declaration dropped.","timestamp":1469512219366,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512219366,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'cursor'.  Declaration dropped.","timestamp":1469512219367,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'cursor'.  Declaration dropped.","timestamp":1469512219367,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512219367,"type":""}
+{"level":"WARNING","message":"Unknown property 'touch-action'.  Declaration dropped.","timestamp":1469512219367,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1469512219367,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512219367,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found '-webkit-min-device-pixel-ratio'.","timestamp":1469512219368,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found '-webkit-min-device-pixel-ratio'.","timestamp":1469512219368,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1469512219368,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512219368,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512219368,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-pointer-events'.  Declaration dropped.","timestamp":1469512219368,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512219369,"type":""}
+{"level":"WARNING","message":"Unknown property 'box-sizing'.  Declaration dropped.","timestamp":1469512219369,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512219369,"type":""}
+{"level":"WARNING","message":"Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.","timestamp":1469512219369,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.","timestamp":1469512219370,"type":""}
+{"level":"WARNING","message":"Unknown property 'touch-action'.  Declaration dropped.","timestamp":1469512222791,"type":""}
+{"level":"WARNING","message":"Unknown property 'box-sizing'.  Declaration dropped.","timestamp":1469512222792,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512222792,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'cursor'.  Declaration dropped.","timestamp":1469512222792,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'cursor'.  Declaration dropped.","timestamp":1469512222792,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512222792,"type":""}
+{"level":"WARNING","message":"Unknown property 'touch-action'.  Declaration dropped.","timestamp":1469512222792,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1469512222793,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512222793,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found '-webkit-min-device-pixel-ratio'.","timestamp":1469512222793,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found '-webkit-min-device-pixel-ratio'.","timestamp":1469512222793,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1469512222793,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512222793,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512222794,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-pointer-events'.  Declaration dropped.","timestamp":1469512222794,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512222794,"type":""}
+{"level":"WARNING","message":"Unknown property 'box-sizing'.  Declaration dropped.","timestamp":1469512222794,"type":""}
+{"level":"WARNING","message":"Unknown property 'will-change'.  Declaration dropped.","timestamp":1469512222794,"type":""}
+{"level":"WARNING","message":"Expected 'none' or URL but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.","timestamp":1469512222794,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-osx-font-smoothing'.  Declaration dropped.","timestamp":1469512222795,"type":""}
